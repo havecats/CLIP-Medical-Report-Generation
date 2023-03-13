@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1265"/>
+   <pmcId id="1265"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1265"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Images from chest x-XXXX performed on XXXX are not available at this time for comparison.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female with dyspnea.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Normal heart size. There is a round density in the AP XXXX. XXXX study performed in XXXX is not available for review at this time. Lungs are hyperinflated with flattened diaphragms. Calcified right lower lobe granuloma. No focal airspace consolidation, pneumothorax, or pleural effusion. No pulmonary edema. No acute bony abnormality.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Circumscribed structure in the AP XXXX could represent lymphadenopathy, mass, pulmonary arterial abnormality XXXX as aneurysm, or enlargement of the left atrial appendage. As prior chest x-XXXX are not available online at this XXXX should be considered.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Density/round</major>
+   
+      <major>Lung/hyperdistention</major>
+   
+      <major>Diaphragm/flattened</major>
+   
+      <major>Calcified Granuloma/lung/lower lobe/right</major>
+   
+      <automatic>aneurysms</automatic>
+   
+      <automatic>arterial abnormality</automatic>
+   
+      <automatic>granuloma</automatic>
+   
+      <automatic>Aneurysm</automatic>
+   
+      <automatic>Dilatation, Pathologic</automatic>
+   
+      <automatic>Lymphadenopathy</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1265_IM-0179-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX dated XXXX, XXXX at XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1265_IM-0179-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k680</CEDD>
+               
+               
+               <ColorLayout>f1p0k109</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k369</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR1265_IM-0179-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX dated XXXX, XXXX at XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1265_IM-0179-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k754</CEDD>
+               
+               
+               <ColorLayout>f1p0k151</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1271</FCTH>
+               
+               
+               <SemanticContext60>f3p0k277</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

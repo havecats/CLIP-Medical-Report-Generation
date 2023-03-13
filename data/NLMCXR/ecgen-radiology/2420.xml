@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2420"/>
+   <pmcId id="2420"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2420"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None</AbstractText>
+         
+            <AbstractText Label="INDICATION">EVALUATE FOR METASTATIC DISEASE;</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The heart is normal in size. The mediastinum is within normal limits. Aorta is tortuous. Right chest XXXX tip is visualized at the proximal right atrium. The lungs are grossly clear. No pneumothorax is seen. There are deformities of the left lateral 7th and 8th ribs possibly healing or old fractures.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">No acute disease.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Aorta/tortuous</major>
+   
+      <major>Catheters, Indwelling/right</major>
+   
+      <major>Deformity/ribs/left/multiple</major>
+   
+      <automatic>deformity</automatic>
+   
+      <automatic>fracture</automatic>
+   
+      <automatic>Ribs</automatic>
+   
+      <automatic>Right Atrium</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2420_IM-0964-0001-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2420_IM-0964-0001-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k166</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k257</FCTH>
+               
+               
+               <SemanticContext60>f3p0k277</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2420_IM-0964-0001-0002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2420_IM-0964-0001-0002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k750</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1155</FCTH>
+               
+               
+               <SemanticContext60>f3p0k230</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

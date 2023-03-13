@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR128"/>
+   <pmcId id="128"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="128"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Recent XXXX loss.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Sequelae of old granulomatous disease. Lungs are overall hyperexpanded with flattening of the diaphragms. No focal consolidation. Prominent interstitial markings are again noted which are predominantly lower lobe and peripheral suggesting pulmonary fibrosis. This appearance is overall not significantly XXXX. No pleural effusions or pneumothoraces. heart and mediastinum are stable with atherosclerotic vascular disease. Degenerative changes in the thoracic spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Overall stable appearance of the chest suggesting pulmonary fibrosis.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Granulomatous Disease</major>
+   
+      <major>Lung/hyperdistention</major>
+   
+      <major>Diaphragm/flattened</major>
+   
+      <major>Markings/lung/lower lobe/interstitial/prominent</major>
+   
+      <major>Atherosclerosis</major>
+   
+      <major>Thoracic Vertebrae/degenerative</major>
+   
+      <automatic>atherosclerotic vascular disease</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>granulomatous disease</automatic>
+   
+      <automatic>pulmonary fibroses</automatic>
+
+   </MeSH>
+   <parentImage id="CXR128_IM-0186-82592001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and LAT view CHEST XXXX, XXXX XXXX PM</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR128_IM-0186-82592001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1093</CEDD>
+               
+               
+               <ColorLayout>f1p0k33</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1179</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1282</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR128_IM-0186-82592002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and LAT view CHEST XXXX, XXXX XXXX PM</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR128_IM-0186-82592002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k772</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k593</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1155</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

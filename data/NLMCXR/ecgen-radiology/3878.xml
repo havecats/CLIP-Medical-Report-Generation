@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3878"/>
+   <pmcId id="3878"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3878"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Esophageal carcinoma, shortness of breath in XXXX</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Postop changes of CABG with mild cardiomegaly. There is an infiltrate in the right lower lobe. Thoracic spondylosis.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Right lower lobe infiltrate. In the appropriate clinical setting this appearance is compatible with pneumonia. Consider followup PA and lateral chest x-XXXX in 4-6 weeks to ensure resolution and exclude an underlying mass.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly/mild</major>
+   
+      <major>Infiltrate/lung/lower lobe/right</major>
+   
+      <major>Spondylosis/thoracic vertebrae</major>
+   
+      <automatic>infiltrates</automatic>
+   
+      <automatic>pneumonia</automatic>
+   
+      <automatic>cabg</automatic>
+   
+      <automatic>Pneumonia</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3878_IM-1968-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Chest, 2 views, frontal and lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3878_IM-1968-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3878_IM-1968-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Chest, 2 views, frontal and lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3878_IM-1968-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k436</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2423</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

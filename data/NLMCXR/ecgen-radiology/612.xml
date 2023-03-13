@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR612"/>
+   <pmcId id="612"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="612"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Two-view chest radiograph dated XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old woman with chest pain..</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Interval performance of anterior cervical spinal fusion, XXXX intact without complicating features. There is stable cardiomegaly, with persistent bibasilar opacities XXXX atelectasis and/or infiltrate. No XXXX focal consolidations, pneumothorax, or pleural effusions. The visualized osseous structures demonstrate mild multilevel degenerative disc disease of the thoracolumbar spine, without acute osseous abnormality.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Stable cardiomegaly and persistent minimal bibasilar atelectasis.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Spinal Fusion/cervical vertebrae</major>
+   
+      <major>Cardiomegaly</major>
+   
+      <major>Opacity/lung/base/bilateral</major>
+   
+      <major>Pulmonary Atelectasis/base/bilateral/mild</major>
+   
+      <major>Infiltrate/lung/base/bilateral</major>
+   
+      <major>Thoracic Vertebrae/degenerative/multiple/mild</major>
+   
+      <major>Lumbar Vertebrae/degenerative/mild</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>degenerative disc diseases</automatic>
+   
+      <automatic>infiltrates</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>cervical spinal fusion</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Cervical Vertebrae</automatic>
+   
+      <automatic>Lumbar Vertebrae</automatic>
+   
+      <automatic>Spinal Fusion</automatic>
+   
+      <automatic>surgery</automatic>
+
+   </MeSH>
+   <parentImage id="CXR612_IM-2199-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and Lateral Chest x-XXXX on XXXX, XXXX at XXXX a.m..</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR612_IM-2199-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k369</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR612_IM-2199-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and Lateral Chest x-XXXX on XXXX, XXXX at XXXX a.m..</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR612_IM-2199-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k129</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1808</FCTH>
+               
+               
+               <SemanticContext60>f3p0k230</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

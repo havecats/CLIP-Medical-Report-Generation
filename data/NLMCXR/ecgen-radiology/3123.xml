@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3123"/>
+   <pmcId id="3123"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3123"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Dyspnea</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The heart is enlarged. Changes of XXXX sternotomy and bypass graft are identified in the lungs are grossly clear. XXXX right pleural thickening versus XXXX pleural effusion is noted. There is no acute infiltrate. No pneumothorax is seen. Mild granulomatous sequela are noted.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Mild stable cardiomegaly without acute disease. Possible XXXX right pleural effusion.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly/mild</major>
+   
+      <major>Thickening/pleura/right</major>
+   
+      <major>Pleural Effusion/right</major>
+   
+      <major>Granulomatous Disease/mild</major>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>pleural thickening</automatic>
+   
+      <automatic>bypass grafts</automatic>
+   
+      <automatic>sternotomy</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3123_IM-1468-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>CHEST 2V FRONTAL/LATERAL </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3123_IM-1468-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1637</CEDD>
+               
+               
+               <ColorLayout>f1p0k65</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k238</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3123_IM-1468-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>CHEST 2V FRONTAL/LATERAL </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3123_IM-1468-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k103</CEDD>
+               
+               
+               <ColorLayout>f1p0k33</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1179</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k340</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

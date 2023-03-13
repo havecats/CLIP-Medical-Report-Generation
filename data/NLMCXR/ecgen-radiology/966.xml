@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR966"/>
+   <pmcId id="966"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="966"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Chest x-XXXX, XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">This is a XXXX-year-old female patient with shortness of breath and dyspnea.</AbstractText>
+         
+            <AbstractText Label="FINDINGS"/>
+         
+            <AbstractText Label="IMPRESSION">The cardiac silhouette is normal in size and configuration. The mediastinum and perihilar structures appear to be are unremarkable. An element of atelectasis and infiltrate is noted involving the right upper lobe. In addition, subsegmental atelectatic change is present overlying the left ventricle. No pneumothorax is identified. The osseous structures appear to be unremarkable. Incidental note is XXXX of nipple XXXX.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Pulmonary Atelectasis/upper lobe/right</major>
+   
+      <major>Infiltrate/lung/upper lobe/right</major>
+   
+      <major>Pulmonary Atelectasis/left</major>
+   
+      <major>Foreign Bodies/breast</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>infiltrates</automatic>
+   
+      <automatic>Atelectasis</automatic>
+
+   </MeSH>
+   <parentImage id="CXR966_IM-2456-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>CHEST PA and LATERAL: on XXXX, XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR966_IM-2456-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1637</CEDD>
+               
+               
+               <ColorLayout>f1p0k98</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k238</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR966_IM-2456-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>CHEST PA and LATERAL: on XXXX, XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR966_IM-2456-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1637</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k518</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k238</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

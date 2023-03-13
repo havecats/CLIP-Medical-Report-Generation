@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1302"/>
+   <pmcId id="1302"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1302"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">CP</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Lungs are clear. No pleural effusions or pneumothoraces. heart and mediastinum are stable with ectasia of the aorta. Heart size is upper limits of normal. Degenerative changes in the spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Stable appearance of the chest without acute abnormality.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Aorta/tortuous</major>
+   
+      <major>Spine/degenerative</major>
+   
+      <automatic>degenerative change</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1302_IM-0198-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral views of the chest XXXX, XXXX XXXX PM </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1302_IM-0198-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k680</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR1302_IM-0198-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and lateral views of the chest XXXX, XXXX XXXX PM </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1302_IM-0198-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k220</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k369</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

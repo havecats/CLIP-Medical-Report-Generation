@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2399"/>
+   <pmcId id="2399"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2399"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None.</AbstractText>
+         
+            <AbstractText Label="INDICATION">Dyspnea. XXXX XXXX the increase in C-section one XXXX ago.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Left lung clear. Questioned some vague right lower lobe opacity on the frontal film. XXXX subsegmental atelectasis or scar seen on lateral view. Cardiac silhouette borderline in size within LV contour. XXXX sulci. XXXX unremarkable.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">XXXX and vague opacity at the right lower lobe of uncertain significance. Could represent subsegmental atelectasis or scarring. Borderline heart size related to recent pregnancy. Consider followup chest radiographs to show clearing.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Pulmonary Atelectasis</major>
+   
+      <major>Cicatrix/lung</major>
+   
+      <major>Cardiac Shadow/borderline</major>
+   
+      <major>Opacity/lung/lower lobe/right</major>
+   
+      <major>Cardiomegaly/borderline</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>scar</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Scarring</automatic>
+
+   </MeSH>
+</eCitation>

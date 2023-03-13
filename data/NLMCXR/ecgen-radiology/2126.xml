@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2126"/>
+   <pmcId id="2126"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2126"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX hours</AbstractText>
+         
+            <AbstractText Label="INDICATION">Status post cardiac valve replacement and CABG.</AbstractText>
+         
+            <AbstractText Label="FINDINGS"/>
+         
+            <AbstractText Label="IMPRESSION">Interval improvement/resolution right patchy lateral base opacity. There is continued XXXX density in the right lateral and left base of the chest with minimal tenting of the lateral right hemidiaphragm . Costophrenic XXXX blunting may persist but the left costophrenic XXXX is clipped from view. There is a right middle base calcific nodular density XXXX from old granulomatous disease. Mild left apical pleural thickening. XXXX XXXX and valve XXXX. Probable prominent epicardial fat pads on either side. Thoracic spine DISH.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Density/thorax/right</major>
+   
+      <major>Density/thorax/base/left</major>
+   
+      <major>Diaphragm/right/elevated/mild</major>
+   
+      <major>Costophrenic Angle/left/obscured</major>
+   
+      <major>Technical Quality of Image Unsatisfactory </major>
+   
+      <major>Calcinosis/lung/middle lobe/right/round</major>
+   
+      <major>Density/lung/middle lobe/right/round</major>
+   
+      <major>Granulomatous Disease</major>
+   
+      <major>Thickening/pleura/apex/left/mild</major>
+   
+      <major>Epicardial Fat/bilateral/prominent</major>
+   
+      <major>Hyperostosis, Diffuse Idiopathic Skeletal/thoracic vertebrae</major>
+   
+      <automatic>DISH</automatic>
+   
+      <automatic>granulomatous disease</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>pleural thickening</automatic>
+   
+      <automatic>Diaphragm</automatic>
+   
+      <automatic>Fat Pads</automatic>
+   
+      <automatic>Pleura</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2126_IM-0750-12012">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2126_IM-0750-12012.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k25</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k414</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k312</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2126_IM-0750-3003">
+      
+      
+      <figureId>F3</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2126_IM-0750-3003.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k754</CEDD>
+               
+               
+               <ColorLayout>f1p0k151</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k359</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1155</FCTH>
+               
+               
+               <SemanticContext60>f3p0k268</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

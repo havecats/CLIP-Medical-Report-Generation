@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2512"/>
+   <pmcId id="2512"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2512"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Comparison is XXXX to XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">This is a XXXX-year-old female patient with history of coronary artery bypass graft x3 and recent open-heart surgery. Coronary artery bypass graft performed XXXX. The patient is an XXXX-XXXX.</AbstractText>
+         
+            <AbstractText Label="FINDINGS"/>
+         
+            <AbstractText Label="IMPRESSION">Sternotomy XXXX are noted in XXXX. Vascular clips are noted consistent with previous coronary artery bypass graft. The previously seen central venous line catheter has been removed. A left pleural effusion remains. Underlying atelectasis is suspected. Given differences in technique, the effusion is not XXXX to be significantly different but is XXXX favored to be lower end of moderate for size. Osseous structures are remarkable for osteopenia, degenerative changes and there is some kyphosis noted to the thoracic spine.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Surgical Instruments</major>
+   
+      <major>Pleural Effusion/left/moderate</major>
+   
+      <major>Bone Diseases, Metabolic</major>
+   
+      <major>Kyphosis/thoracic vertebrae</major>
+   
+      <major>Bone and Bones/degenerative</major>
+   
+      <major>Technical Quality of Image Unsatisfactory </major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>effusion</automatic>
+   
+      <automatic>kyphoses</automatic>
+   
+      <automatic>osteopenia</automatic>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>coronary artery bypass graft</automatic>
+   
+      <automatic>sternotomy</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Coronary Artery Bypass</automatic>
+   
+      <automatic>Kyphosis</automatic>
+   
+      <automatic>Osteopenia</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+   
+      <automatic>Sternotomy</automatic>
+   
+      <automatic>Surgical Instruments</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2512_IM-1034-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2512_IM-1034-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1282</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

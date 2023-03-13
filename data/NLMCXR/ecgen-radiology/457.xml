@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR457"/>
+   <pmcId id="457"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="457"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Chest 2 views. XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is a calcified granuloma left midlung. There is round density within the anterior segment of the right upper lobe. There are prominent interstitial opacities which may represent changes associated with fibrosis. Heart size is normal. No pneumothorax. anterior segment of upper lobe, rounded focal density. could be XXXX lung nodule.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Round density within the anterior segment of the right upper lobe. This may represent XXXX pulmonary nodule. The primordial XXXX was employed to notify the referring physicians of this critical finding. .</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Calcified Granuloma/lung/lingula</major>
+   
+      <major>Density/lung/upper lobe/right/anterior/round</major>
+   
+      <major>Opacity/lung/interstitial/prominent</major>
+   
+      <automatic>calcified granuloma</automatic>
+   
+      <automatic>fibroses</automatic>
+   
+      <automatic>nodule</automatic>
+   
+      <automatic>opacity</automatic>
+
+   </MeSH>
+   <parentImage id="CXR457_IM-2088-1001-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR457_IM-2088-1001-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k277</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR457_IM-2088-1001-0002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR457_IM-2088-1001-0002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1498</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1133</FCTH>
+               
+               
+               <SemanticContext60>f3p0k223</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

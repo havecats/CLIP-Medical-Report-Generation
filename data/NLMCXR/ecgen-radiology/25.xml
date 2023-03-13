@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR25"/>
+   <pmcId id="25"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="25"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">PA and lateral chest XXXX and CTA XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX year old smoking on oxygen and nasal cannula caught XXXX. XXXX to the cheek and inside of nose.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The heart is within normal limits in size. Surgical suture material projects over the right lung apex. The lungs are hyperlucent and hyperinflated compatible with emphysema. There is left lower lobe airspace disease identified. There is moderate left pleural effusion and small right pleural effusion. No visualized pneumothorax.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Left lower lobe airspace disease and bilateral pleural effusions, left greater than right. This may be secondary to inhalational injury. Recommend followup to ensure complete resolution.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Sutures/lung/apex/right</major>
+   
+      <major>Lung, Hyperlucent</major>
+   
+      <major>Lung/hyperdistention</major>
+   
+      <major>Pulmonary Emphysema</major>
+   
+      <major>Airspace Disease/lung/lower lobe/left</major>
+   
+      <major>Pleural Effusion/left/moderate</major>
+   
+      <major>Pleural Effusion/right/small</major>
+   
+      <automatic>bilateral pleural effusion</automatic>
+   
+      <automatic>emphysemas</automatic>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>Exudates and Transudates</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+   
+      <automatic>Pulmonary Emphysema</automatic>
+
+   </MeSH>
+   <parentImage id="CXR25_IM-1024-2001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR25_IM-1024-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k436</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1155</FCTH>
+               
+               
+               <SemanticContext60>f3p0k230</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR25_IM-1024-3001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR25_IM-1024-3001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k129</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k593</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1155</FCTH>
+               
+               
+               <SemanticContext60>f3p0k230</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

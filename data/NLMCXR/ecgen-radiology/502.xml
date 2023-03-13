@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR502"/>
+   <pmcId id="502"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="502"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX chest, XXXX abdominal CT.</AbstractText>
+         
+            <AbstractText Label="INDICATION">The patient is a XXXX-year-old male with abdominal pain, question of small bowel obstruction. XXXX onset XXXX and wheezing in bilateral lung XXXX.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Chest. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is normal. Abdomen. No pneumoperitoneum. There is a normal bowel XXXX pattern. Air and stool visible throughout the entire large colon including the rectum. No abnormally dilated small bowel loops. No evidence for intussusception or small bowel obstruction. No pathologic calcifications XXXX over the abdomen or pelvis. XXXX XXXX are without fracture or destructive lesion, though there are mild degenerative changes throughout the lumbar spine. Small hiatal hernia is not as well demonstrated on this exam.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Chest. 1. No acute cardiopulmonary abnormality. Abdomen. 1. No acute intra-abdominal process. Negative for obstruction.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>normal</major>
+
+   </MeSH>
+   <parentImage id="CXR502_IM-2120-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Chest X XXXX 2 XXXX PA and lateral, Abdomen X XXXX 2 XXXX AP supine and XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR502_IM-2120-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k750</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k28</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR502_IM-2120-1002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Chest X XXXX 2 XXXX PA and lateral, Abdomen X XXXX 2 XXXX AP supine and XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR502_IM-2120-1002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k2</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1200</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k369</FCTH>
+               
+               
+               <SemanticContext60>f3p0k277</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

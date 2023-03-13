@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1326"/>
+   <pmcId id="1326"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1326"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Portable chest dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female, status post chest tube removal, evaluate for pneumothorax.</AbstractText>
+         
+            <AbstractText Label="FINDINGS"/>
+         
+            <AbstractText Label="IMPRESSION">Stable right-sided subclavian central venous catheter with tip approximating the SVC. Stable right suprahilar opacity, compatible with history of right upper lobe mass. Elevation of the right hemidiaphragm. Right-sided pneumothorax noted measuring approximately 1.8 cm from the the right apex. Stable postsurgical changes left axilla. Degenerative changes thoracic spine. Stable streaky opacities right base. XXXX opacity right midlung, question fluid level, incompletely evaluated, no recent XXXX for comparison.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Catheters, Indwelling/right</major>
+   
+      <major>Opacity/lung/hilum/right</major>
+   
+      <major>Diaphragm/right/elevated</major>
+   
+      <major>Pneumothorax/apex/right</major>
+   
+      <major>Thoracic Vertebrae/degenerative</major>
+   
+      <major>Opacity/lung/base/right/streaky/multiple</major>
+   
+      <major>Opacity/lung/middle lobe/right</major>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>pneumothorax</automatic>
+   
+      <automatic>central venous catheters</automatic>
+   
+      <automatic>Central Venous Catheter</automatic>
+   
+      <automatic>Diaphragm</automatic>
+   
+      <automatic>Pneumothorax</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1326_IM-0210-0001-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1326_IM-0210-0001-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1174</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k518</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k302</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR1326_IM-0210-0001-0002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1326_IM-0210-0001-0002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1013</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k28</FCTH>
+               
+               
+               <SemanticContext60>f3p0k277</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR854"/>
+   <pmcId id="854"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="854"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None</AbstractText>
+         
+            <AbstractText Label="INDICATION">Preoperative evaluation prior to prostate cancer surgery. Evaluate for metastatic disease.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The lungs appear clear. The heart and pulmonary XXXX appear normal. The pleural spaces are clear. These XXXX't contours appear normal. There is a XXXX fracture of the midthoracic vertebral body. This vertebral body does not appear sclerotic. The age of this fracture is unknown. There are healed fractures of several left anterior ribs. There is a healed left clavicle fracture.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute cardiopulmonary disease. No evidence of pulmonary nodules. 2. A single nonsclerotic mid thoracic vertebral XXXX fracture is present. Without a comparison study, the age of this fracture is unknown. Metastatic disease is possible, however given the nonsclerotic appearance, is not XXXX. 3. Healed left clavicle and left anterior rib fractures.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Fractures, Bone/clavicle/left/healed</major>
+   
+      <major>Fractures, Bone/ribs/left/anterior/multiple</major>
+   
+      <major>Fractures, Bone/thoracic vertebrae</major>
+   
+      <automatic>fracture</automatic>
+   
+      <automatic>metastatic disease</automatic>
+   
+      <automatic>rib fracture</automatic>
+   
+      <automatic>Clavicle</automatic>
+   
+      <automatic>Fractures, Bone</automatic>
+   
+      <automatic>Rib Fractures</automatic>
+   
+      <automatic>Spinal Fractures</automatic>
+   
+      <automatic>Spine</automatic>
+
+   </MeSH>
+   <parentImage id="CXR854_IM-2376-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR854_IM-2376-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR854_IM-2376-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR854_IM-2376-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2423</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

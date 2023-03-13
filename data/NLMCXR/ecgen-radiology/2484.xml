@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2484"/>
+   <pmcId id="2484"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2484"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None.</AbstractText>
+         
+            <AbstractText Label="INDICATION">Dizzy. Unable to XXXX.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Frontal and lateral views of the chest with overlying external cardiac monitor leads show normal size and configuration of the cardiac silhouette. There are scattered nodular opacities, XXXX calcified granulomas. No XXXX focal airspace consolidation or pleural effusion.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">No acute or active cardiac, pulmonary or pleural disease. Probable previous granulomatous disease.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Medical Device</major>
+   
+      <major>Opacity/scattered/round/multiple</major>
+   
+      <major>Calcified Granuloma/scattered/round/multiple</major>
+   
+      <major>Granulomatous Disease</major>
+   
+      <automatic>calcified granuloma</automatic>
+   
+      <automatic>granulomatous disease</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>Granuloma</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2484_IM-1012-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>CHEST, Two (2) Views XXXX, XXXX at XXXX hours.</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2484_IM-1012-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1043</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1775</FCTH>
+               
+               
+               <SemanticContext60>f3p0k223</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2484_IM-1012-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>CHEST, Two (2) Views XXXX, XXXX at XXXX hours.</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2484_IM-1012-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k633</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k846</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k302</FCTH>
+               
+               
+               <SemanticContext60>f3p0k366</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

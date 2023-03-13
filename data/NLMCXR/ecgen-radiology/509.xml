@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR509"/>
+   <pmcId id="509"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="509"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Portable chest dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female, cirrhosis.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Two left-sided chest tubes again noted. Interval improved aeration of the left lung compared to prior. Interval improvement in left lung pleural fluid. Right lung clear. Endotracheal tube noted with tip approximately 4.5 cm above the carina. Left internal jugular central venous catheter with tip approximating the high SVC. No evidence of pneumothorax.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Interval improvement in aeration of left lung with interval reduction in size of left pleural effusion. Persistent patchy left lung airspace disease is noted. Stable left-sided chest tubes. .</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Tube, Inserted/thorax/left</major>
+   
+      <major>Pleural Effusion/left</major>
+   
+      <major>Tube, Inserted/trachea, carina</major>
+   
+      <major>Catheters, Indwelling</major>
+   
+      <major>Airspace Disease/lung/left/patchy</major>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>pleural fluid</automatic>
+   
+      <automatic>central venous catheters</automatic>
+   
+      <automatic>Chest Tubes</automatic>
+   
+      <automatic>Intubation, Intratracheal</automatic>
+   
+      <automatic>Jugular Veins</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+
+   </MeSH>
+   <parentImage id="CXR509_IM-2125-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR509_IM-2125-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k750</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1051</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k290</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

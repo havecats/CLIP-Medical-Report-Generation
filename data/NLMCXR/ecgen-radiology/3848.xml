@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3848"/>
+   <pmcId id="3848"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3848"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">AP chest dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old with XXXX and shortness of breath.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The heart size is moderate to severely enlarged. There is prominence of the central pulmonary XXXX suggesting pulmonary artery hypertension. There has been removal of the right-sided PICC line. There is persistent left basilar airspace opacity with left costophrenic XXXX blunting which is not evident on the lateral exam. There are mild degenerative changes of the spine. There is no pneumothorax.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Moderate-to-severe cardiomegaly with probable pulmonary artery hypertension. Persistent left basilar opacity without significant effusion.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly/severe</major>
+   
+      <major>Pulmonary Congestion</major>
+   
+      <major>Hypertension, Pulmonary</major>
+   
+      <major>Opacity/lung/base/left</major>
+   
+      <major>Costophrenic Angle/left/blunted</major>
+   
+      <major>Spine/degenerative/mild</major>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>pulmonary artery hypertension</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Hypertension</automatic>
+   
+      <automatic>Hypertension, Pulmonary</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3848_IM-1946-1001-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3848_IM-1946-1001-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k754</CEDD>
+               
+               
+               <ColorLayout>f1p0k129</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1271</FCTH>
+               
+               
+               <SemanticContext60>f3p0k268</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3848_IM-1946-1001-0002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3848_IM-1946-1001-0002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k550</CEDD>
+               
+               
+               <ColorLayout>f1p0k147</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1038</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1271</FCTH>
+               
+               
+               <SemanticContext60>f3p0k191</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

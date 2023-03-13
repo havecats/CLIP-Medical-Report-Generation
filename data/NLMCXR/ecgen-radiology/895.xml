@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR895"/>
+   <pmcId id="895"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="895"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None.</AbstractText>
+         
+            <AbstractText Label="INDICATION">Pneumo.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Frontal and lateral views of the chest show normal size and configuration of the cardiac silhouette. Normal pulmonary vasculature and central airways. No focal airspace consolidation or pleural effusion. The right pneumothorax is not appreciated. Pneumomediastinum is also less perceptible. There is a mid right clavicle comminuted fracture. There are lateral mid right rib deformities, perhaps due to fractures as well.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">The XXXX right pneumothorax and XXXX pneumomediastinum are less apparent. Mid right clavicle fracture.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Pneumothorax/right</major>
+   
+      <major>Mediastinal Emphysema</major>
+   
+      <major>Fractures, Bone/clavicle/right/multiple</major>
+   
+      <major>Deformity/ribs/right</major>
+   
+      <automatic>comminuted fracture</automatic>
+   
+      <automatic>fracture</automatic>
+   
+      <automatic>pneumomediastinum</automatic>
+   
+      <automatic>pneumothorax</automatic>
+   
+      <automatic>Clavicle</automatic>
+   
+      <automatic>Fracture, Comminuted</automatic>
+   
+      <automatic>Pneumomediastinum</automatic>
+   
+      <automatic>Pneumothorax</automatic>
+
+   </MeSH>
+</eCitation>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2227"/>
+   <pmcId id="2227"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2227"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX at XXXX dated XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Chest pain, shortness of breath, on home oxygen, history of sarcoidosis and smoking</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is increasing primarily basilar interstitial reticular opacity. Lung volumes are low. There are no focal airspace opacities to suggest lobar pneumonia. Heart size appears normal. The thoracic aorta is calcified. Since the prior study, there has been placement of an electronic cardiac device overlying the left chest wall, the distal leads overlying the right heart. There's no pneumothorax.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Findings consistent with worsening interstitial lung disease. High resolution XXXX is recommended to confirm this. Prior XXXX from XXXX reveals no evidence of interstitial lung disease.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Opacity/lung/base/interstitial/reticular</major>
+   
+      <major>Lung/hypoinflation</major>
+   
+      <major>Calcinosis/aorta, thoracic</major>
+   
+      <major>Implanted Medical Device/left</major>
+   
+      <major>Lung Diseases, Interstitial</major>
+   
+      <automatic>interstitial lung disease</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>electronic cardiac device</automatic>
+   
+      <automatic>Interstitial Lung Disease</automatic>
+   
+      <automatic>Thoracic Aorta</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2227_IM-0831-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and lateral views of the chest, XXXX, XXXX XXXX PM</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2227_IM-0831-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k129</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k832</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1133</FCTH>
+               
+               
+               <SemanticContext60>f3p0k76</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

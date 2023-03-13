@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3804"/>
+   <pmcId id="3804"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3804"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Two-view chest radiograph dated XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old woman with shortness of breath and XXXX.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Cardiomediastinal silhouette stable and within normal limits for size with unchanged atherosclerosis and tortuosity thoracic aorta. There is no focal consolidation, pneumothorax, or effusion. No acute bony abnormality. Stable left proximal humeral enchondroma versus remote bony infarct. Stable multilevel degenerative disc disease of the thoracic spine. Calcified granuloma seen anteriorly on lateral view is stable since XXXX.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">No acute cardiopulmonary abnormality.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Aorta, Thoracic/tortuous</major>
+   
+      <major>Atherosclerosis/aorta, thoracic</major>
+   
+      <major>Cysts/humerus/left</major>
+   
+      <major>Deformity/humerus/left</major>
+   
+      <major>Thoracic Vertebrae/degenerative/multiple</major>
+   
+      <major>Calcified Granuloma/thorax</major>
+   
+      <automatic>atheroscleroses</automatic>
+   
+      <automatic>calcified granuloma</automatic>
+   
+      <automatic>degenerative disc diseases</automatic>
+   
+      <automatic>enchondroma</automatic>
+   
+      <automatic>Intervertebral Disc Degeneration</automatic>
+   
+      <automatic>Intervertebral Disc Displacement</automatic>
+   
+      <automatic>Thoracic Aorta</automatic>
+   
+      <automatic>Thoracic Vertebrae</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3804_IM-1914-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX dated XXXX, XXXX at XXXX a.m. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3804_IM-1914-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1637</CEDD>
+               
+               
+               <ColorLayout>f1p0k147</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k238</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3804_IM-1914-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX dated XXXX, XXXX at XXXX a.m. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3804_IM-1914-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1040</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k518</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2423</FCTH>
+               
+               
+               <SemanticContext60>f3p0k95</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

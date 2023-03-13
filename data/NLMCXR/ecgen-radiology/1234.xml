@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1234"/>
+   <pmcId id="1234"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1234"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None. Clinical</AbstractText>
+         
+            <AbstractText Label="INDICATION">Tachycardia. History of bypass surgery.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">2 images. The cardiac silhouette is enlarged. Thoracic aortic atherosclerotic calcifications are present. There are finding status post sternotomy and CABG. XXXX atelectasis or scar is noted within the left midlung. There is blunting of the left costophrenic XXXX. No pneumothorax.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Cardiomegaly. 2. Minimal left midlung atelectasis. 3. Blunting of left costophrenic XXXX. This could indicate a small amount of pleural fluid versus pleural-parenchymal scarring.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiac Shadow/enlarged</major>
+   
+      <major>Atherosclerosis/aorta, thoracic</major>
+   
+      <major>Cicatrix/lung/lingula</major>
+   
+      <major>Pulmonary Atelectasis/lingula/mild</major>
+   
+      <major>Costophrenic Angle/left/blunted</major>
+   
+      <major>Cardiomegaly</major>
+   
+      <major>Surgical Instruments</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>pleural fluid</automatic>
+   
+      <automatic>scar</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>cabg</automatic>
+   
+      <automatic>sternotomy</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+   
+      <automatic>Scar</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1234_IM-0157-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1234_IM-0157-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k754</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k594</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1808</FCTH>
+               
+               
+               <SemanticContext60>f3p0k277</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR1234_IM-0157-4004">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1234_IM-0157-4004.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1205</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k18</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2606"/>
+   <pmcId id="2606"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2606"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female with chest pain.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is stable prominence of the pulmonary interstitium. XXXX and fluid containing density seen adjacent to the heart is stable, most consistent with a moderate sized hiatal hernia. There is stable tortuosity and/or ectasia of the thoracic aorta, with calcification of the aortic XXXX. No pleural effusion, focal airspace disease or pneumothorax. Stable exaggerated kyphosis of the thoracic spine, stable anterior wedge deformities of at XXXX 2 thoracic vertebral bodies at the apex of the kyphotic curvature. Diffuse osteopenia.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute pulmonary disease. 2. Stable moderate hiatal hernia.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Lung/interstitial/prominent</major>
+   
+      <major>Density/mediastinum</major>
+   
+      <major>Hernia, Hiatal/moderate</major>
+   
+      <major>Aorta, Thoracic/tortuous</major>
+   
+      <major>Calcinosis/aorta</major>
+   
+      <major>Kyphosis/thoracic vertebrae/severe</major>
+   
+      <major>Deformity/thoracic vertebrae/anterior/multiple</major>
+   
+      <major>Bone Diseases, Metabolic/diffuse</major>
+   
+      <automatic>deformity</automatic>
+   
+      <automatic>ectasia</automatic>
+   
+      <automatic>hiatal hernia</automatic>
+   
+      <automatic>kyphoses</automatic>
+   
+      <automatic>osteopenia</automatic>
+   
+      <automatic>Hiatal Hernia</automatic>
+   
+      <automatic>Kyphosis</automatic>
+   
+      <automatic>Thoracic Vertebrae</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2606_IM-1096-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and Lateral views of the Chest performed on XXXX, XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2606_IM-1096-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1056</CEDD>
+               
+               
+               <ColorLayout>f1p0k31</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k124</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1394</FCTH>
+               
+               
+               <SemanticContext60>f3p0k132</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

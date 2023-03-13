@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3753"/>
+   <pmcId id="3753"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3753"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON"/>
+         
+            <AbstractText Label="INDICATION">Chest pain</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute pulmonary consolidation, large effusion or pneumothorax. There is minimal left basilar atelectasis. There are small bilateral pulmonary nodules measure approximately 5 mm in size in the right midlung and left upper lung XXXX. These are not well appreciated on the lateral projection.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No focal pulmonary consolidation or effusion. Minimal left basilar atelectasis. 2. Bilateral pulmonary nodules. These were not present on the prior study and may represent sequela of infection, but could represent neoplastic process. Correlation with history of primary malignancy is recommended. Further evaluation XXXX of the thorax could be performed, if clinically indicated.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Pulmonary Atelectasis/base/left/mild</major>
+   
+      <major>Nodule/lung/middle lobe/right/multiple/small</major>
+   
+      <major>Nodule/lung/upper lobe/left/multiple/small</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>infection</automatic>
+   
+      <automatic>neoplastic processes</automatic>
+   
+      <automatic>Atelectasis</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3753_IM-1877-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption> Frontal and lateral views of the chest were obtained on XXXX, XXXX at XXXX a.m. and compared to prior study performed XXXX, XXXX </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3753_IM-1877-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k680</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3753_IM-1877-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption> Frontal and lateral views of the chest were obtained on XXXX, XXXX at XXXX a.m. and compared to prior study performed XXXX, XXXX </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3753_IM-1877-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k754</CEDD>
+               
+               
+               <ColorLayout>f1p0k66</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k518</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1394</FCTH>
+               
+               
+               <SemanticContext60>f3p0k151</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

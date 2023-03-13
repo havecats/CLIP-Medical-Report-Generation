@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2271"/>
+   <pmcId id="2271"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2271"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">a single frontal chest radiograph of earlier the same XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">Altered mental status. Possible pneumonia.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Again observed is a curvilinear density in the right midlung zone which may represent some pulmonary scarring or thickening of the right XXXX fissure. There is minimal blunting of the right posterior costophrenic XXXX, consistent with a small effusion and/or pleural scarring. The lung parenchyma is otherwise clear. There is mild cardiomegaly. There are degenerative changes and a mild dextroscoliosis in the thoracic spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Minimal XXXX atelectasis in the right midlung zone versus pleural scarring in the right XXXX fissure. 2. Minimal blunting of the posterior right costophrenic XXXX, consistent with a small pleural effusion and/or pleural scarring. 3. Cardiomegaly. 4. No XXXX abnormalities as compared to prior study of earlier the same XXXX</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Density/lung/middle lobe/right</major>
+   
+      <major>Costophrenic Angle/right/posterior/blunted/mild</major>
+   
+      <major>Pleural Effusion/right/small</major>
+   
+      <major>Cicatrix/pleura/right</major>
+   
+      <major>Cardiomegaly/mild</major>
+   
+      <major>Thoracic Vertebrae/degenerative</major>
+   
+      <major>Scoliosis/thoracic vertebrae/right/mild</major>
+   
+      <major>Pulmonary Atelectasis/middle lobe/right/mild</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>effusion</automatic>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+   
+      <automatic>Scarring</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2271_IM-0860-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral radiographs of the chest</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2271_IM-0860-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k773</CEDD>
+               
+               
+               <ColorLayout>f1p0k147</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k138</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

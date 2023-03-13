@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3000"/>
+   <pmcId id="3000"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3000"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">CT chest XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old male with history renal XXXX, 593.9. Evaluate for metastatic disease.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There are multiple bilateral pulmonary nodules. For example, there is a 12 mm left lower lobe nodule, XXXX seen on the frontal view. There is no pleural effusion or pneumothorax. Heart size is within normal limits. The left hilar contour is prominent. There are diffuse degenerative changes of the spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Multiple bilateral pulmonary nodules, concerning for metastatic disease. 2. Prominent left hilum. After correlation with the XXXX scan performed today, findings XXXX reflect enlargement of the left pulmonary artery.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Nodule/lung/bilateral/multiple</major>
+   
+      <major>Nodule/lung/lower lobe/left</major>
+   
+      <major>Lung/hilum/left/prominent</major>
+   
+      <major>Spine/degenerative/diffuse</major>
+   
+      <major>Pulmonary Artery/left/enlarged</major>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>nodule</automatic>
+   
+      <automatic>Multiple Pulmonary Nodules</automatic>
+   
+      <automatic>Pulmonary Artery</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3000_IM-1386-0001-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and LATERAL views of the chest, dated XXXX, XXXX XXXX XXXX</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3000_IM-1386-0001-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1205</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2255</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3000_IM-1386-0001-0002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and LATERAL views of the chest, dated XXXX, XXXX XXXX XXXX</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3000_IM-1386-0001-0002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k265</CEDD>
+               
+               
+               <ColorLayout>f1p0k6</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k518</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1282</FCTH>
+               
+               
+               <SemanticContext60>f3p0k153</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

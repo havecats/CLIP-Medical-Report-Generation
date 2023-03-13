@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3278"/>
+   <pmcId id="3278"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3278"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Chest XXXX. Clinical</AbstractText>
+         
+            <AbstractText Label="INDICATION">MVA XXXX, XXXX. XXXX. Back pain. Right clavicle numbness, with tingling and pain with palpation.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Chest: 2 images. Heart size is normal. Mediastinal contours are maintained. There is a mild pectus excavatum deformity. The lungs are clear of focal infiltrate. There is no evidence for pleural effusion or pneumothorax. No convincing acute bony findings. Right shoulder: 3 images. There has been XXXX and screw fixation of the midshaft right clavicle. The lateral most screw is fractured. This is age-indeterminate as no prior studies are available for comparison. Otherwise, the surgical XXXX appears intact. The humeral head is seen within the glenoid, without evidence for dislocation. No bony fractures are seen. The visualized right ribs appear intact. Right clavicle: 2 images. No clavicle fracture is seen. Once again noted is the surgical fixation XXXX, with fracture of the lateral most fixation screw.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Chest: 1. No acute cardiopulmonary abnormality identified. 2. Pectus excavatum. Right shoulder and right clavicle: 1. No acute bony abnormality identified. 2. The lateral most screw of the clavicular fixation XXXX is fractured. This is age-indeterminate as no prior studies are available for comparison. Clinical correlation is XXXX.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Funnel Chest/mild</major>
+   
+      <automatic>deformity</automatic>
+   
+      <automatic>pectus excavatum</automatic>
+   
+      <automatic>Pectus Excavatum</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3278_IM-1559-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3278_IM-1559-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k633</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1214</FCTH>
+               
+               
+               <SemanticContext60>f3p0k144</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3158"/>
+   <pmcId id="3158"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3158"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON"/>
+         
+            <AbstractText Label="INDICATION">Hypertension, shortness of breath.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Cardiomegaly is present. The pulmonary vascularity appears within normal limits. Some scattered XXXX opacities are present whose appearance XXXX scarring or atelectasis. No focal airspace disease is seen. No pleural effusion is noted. No pneumothorax is identified. The left hemidiaphragm is elevated. Scoliosis is present involving the lumbar spine. There has been previous surgical resection of the left 6th rib.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Cardiomegaly without overt heart failure. 2. Continued elevation of the left hemidiaphragm. 3. Scattered XXXX of left base scarring/atelectasis.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly</major>
+   
+      <major>Opacity/lung/base/left/scattered</major>
+   
+      <major>Cicatrix/lung/base/left</major>
+   
+      <major>Pulmonary Atelectasis/base/left</major>
+   
+      <major>Diaphragm/left/elevated</major>
+   
+      <major>Scoliosis/lumbar vertebrae</major>
+   
+      <major>Deformity/ribs/left</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>scolioses</automatic>
+   
+      <automatic>surgical resection</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Diaphragm</automatic>
+   
+      <automatic>Scarring</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3158_IM-1487-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3158_IM-1487-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k220</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k369</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3158_IM-1487-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3158_IM-1487-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k68</CEDD>
+               
+               
+               <ColorLayout>f1p0k129</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k832</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1808</FCTH>
+               
+               
+               <SemanticContext60>f3p0k228</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

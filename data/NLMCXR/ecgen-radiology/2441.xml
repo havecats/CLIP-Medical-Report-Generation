@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2441"/>
+   <pmcId id="2441"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2441"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">CT of the chest dated XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old woman with dyspnea..</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is mild blunting of the right costophrenic XXXX which may represent a small right pleural effusion. No focal consolidation or pneumothorax identified. Cardiomediastinal silhouette demonstrates stable mild tortuosity of the thoracic aorta, and heart size within normal limits and stable. No acute osseous abnormality. There is redemonstration of mild multilevel degenerative disc disease of the thoracolumbar spine. Old, healed left rib fractures are noted.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Possible small right pleural effusion, without focal consolidation or pneumothorax.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Costophrenic Angle/right/blunted/mild</major>
+   
+      <major>Aorta, Thoracic/tortuous/mild</major>
+   
+      <major>Thoracic Vertebrae/degenerative/multiple/mild</major>
+   
+      <major>Lumbar Vertebrae/degenerative/multiple/mild</major>
+   
+      <major>Fractures, Bone/ribs/left/healed</major>
+   
+      <automatic>degenerative disc diseases</automatic>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>rib fracture</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2441_IM-0978-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX dated XXXX, XXXX at XXXX p.m.. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2441_IM-0978-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1013</CEDD>
+               
+               
+               <ColorLayout>f1p0k147</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k223</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2441_IM-0978-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX dated XXXX, XXXX at XXXX p.m.. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2441_IM-0978-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k633</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k518</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2423</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

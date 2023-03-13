@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3293"/>
+   <pmcId id="3293"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3293"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXXyo POD#1 XXXX XXXX with XXXX, left basilar crackles on exam</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Lung volumes are low. The heart is large, and the pulmonary XXXX are engorged. Bibasilar interstitial infiltrates are present. Bilateral costophrenic XXXX blunting is present.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Congestive heart failure with bibasilar pulmonary interstitial edema and bilateral pleural fluid.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Lung/hypoinflation</major>
+   
+      <major>Cardiomegaly</major>
+   
+      <major>Infiltrate/lung/base/bilateral/interstitial</major>
+   
+      <major>Costophrenic Angle/bilateral/blunted</major>
+   
+      <major>Heart Failure</major>
+   
+      <major>Pulmonary Edema/base/bilateral/interstitial</major>
+   
+      <major>Pleural Effusion/bilateral</major>
+   
+      <major>Pulmonary Congestion</major>
+   
+      <automatic>congestive heart failure</automatic>
+   
+      <automatic>edemas</automatic>
+   
+      <automatic>infiltrates</automatic>
+   
+      <automatic>pleural fluid</automatic>
+   
+      <automatic>Congestive Heart Failure</automatic>
+   
+      <automatic>Edema</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+
+   </MeSH>
+</eCitation>

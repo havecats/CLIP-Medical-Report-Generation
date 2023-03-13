@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2817"/>
+   <pmcId id="2817"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2817"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">CT chest dated XXXX, chest 2 views dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">Chest pain</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Evaluation is limited due to obscuration by the patient's arm on the lateral view. Cardiomediastinal silhouette is within normal limits of size and appearance. Pulmonary vascular is unremarkable. XXXX are chronic, coarse interstitial lung markings. Peripheral opacity along the right mid lung XXXX reflects scar or a small amount of loculated pleural fluid or thickening. Otherwise negative for focal airspace disease or consolidation. Hyperlucent lungs with apical XXXX. Negative for pneumothorax or pleural effusion. Limited evaluation reveals the XXXX XXXX to be grossly intact.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute cardiopulmonary abnormality. 2. Emphysema.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Technical Quality of Image Unsatisfactory </major>
+   
+      <major>Markings/lung/interstitial/chronic</major>
+   
+      <major>Opacity/lung/middle lobe/right</major>
+   
+      <major>Cicatrix/lung/middle lobe/right</major>
+   
+      <major>Pleural Effusion/middle lobe/right/small</major>
+   
+      <major>Thickening/pleura/middle lobe/right/small</major>
+   
+      <major>Lung, Hyperlucent</major>
+   
+      <major>Emphysema</major>
+   
+      <automatic>emphysemas</automatic>
+   
+      <automatic>hyperlucent lung</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>pleural fluid</automatic>
+   
+      <automatic>scar</automatic>
+   
+      <automatic>Emphysema</automatic>
+   
+      <automatic>Pulmonary Emphysema</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2817_IM-1241-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA AND LATERAL VIEWS OF THE CHEST 3 total images dated XXXX XXXX hours </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2817_IM-1241-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k680</CEDD>
+               
+               
+               <ColorLayout>f1p0k33</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2817_IM-1241-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA AND LATERAL VIEWS OF THE CHEST 3 total images dated XXXX XXXX hours </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2817_IM-1241-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1049</CEDD>
+               
+               
+               <ColorLayout>f1p0k33</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2423</FCTH>
+               
+               
+               <SemanticContext60>f3p0k9</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2817_IM-1241-3001">
+      
+      
+      <figureId>F3</figureId>
+      
+      
+      <caption>PA AND LATERAL VIEWS OF THE CHEST 3 total images dated XXXX XXXX hours </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2817_IM-1241-3001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k680</CEDD>
+               
+               
+               <ColorLayout>f1p0k33</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

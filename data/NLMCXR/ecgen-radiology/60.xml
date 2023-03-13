@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR60"/>
+   <pmcId id="60"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="60"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Chest radiograph XXXX/XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old male for preop evaluation.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Stable appearance of hiatal hernia. Clear right lung XXXX.In the left superior lower lobe there is a 1.9 x 1.8 cm round area of density which has increased in size compared to prior chest radiograph and recommend a XXXX chest, abdomen and pelvis with contrast as this area is suspicious for potential malignancy. Normal cardiac contour. No pneumothorax or pleural effusion.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Round area of density measuring 1.9 x 1.8 cm in left superior lower lobe with interval increased size compared to prior imaging. Recommend XXXX chest, abdomen and pelvis with contrast for further evaluation. Dr. XXXX XXXX notified by the Veriphy critical result notification XXXX of the left pulmonary mass and recommended followup XXXX chest, abdomen and pelvis with contrast at XXXX XXXX/XXXX.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Hernia, Hiatal</major>
+   
+      <major>Density/lung/lower lobe/left/round</major>
+   
+      <major>Mass/lung/lower lobe/left/round</major>
+   
+      <automatic>hiatal hernia</automatic>
+   
+      <automatic>malignancy</automatic>
+   
+      <automatic>Lung Neoplasms</automatic>
+
+   </MeSH>
+   <parentImage id="CXR60_IM-2192-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Chest radiograph PA and lateral XXXX/XXXX at XXXX. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR60_IM-2192-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k750</CEDD>
+               
+               
+               <ColorLayout>f1p0k98</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k28</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

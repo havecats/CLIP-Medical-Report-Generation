@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1095"/>
+   <pmcId id="1095"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1095"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None</AbstractText>
+         
+            <AbstractText Label="INDICATION">Preprocedure evaluation prior to bone marrow transplant</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The lungs appear clear. The heart and pulmonary XXXX appear normal. There is severe kyphotic deformity of the chest involving prior fractures of thoracic vertebral bodies and the sternum. There are multiple XXXX fractures identified involving upper thoracic vertebral bodies and a single upper lumbar vertebral body. The patient is status post vertebroplasty at multiple levels. The pleural spaces appear clear. There is right-sided chest XXXX, the distal tip in the upper right atrium. Mediastinal contours appear normal.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No evidence of acute cardiopulmonary disease 2. Changes of acute kyphotic deformity and of the thorax as described above</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Kyphosis/thorax/severe</major>
+   
+      <major>Fractures, Bone/thoracic vertebrae/multiple</major>
+   
+      <major>Fractures, Bone/sternum</major>
+   
+      <major>Fractures, Bone/lumbar vertebrae</major>
+   
+      <major>Catheters, Indwelling/right</major>
+   
+      <automatic>deformity</automatic>
+   
+      <automatic>multiple fractures</automatic>
+   
+      <automatic>vertebroplasty</automatic>
+   
+      <automatic>Fractures, Bone</automatic>
+   
+      <automatic>Kyphosis</automatic>
+   
+      <automatic>Lumbar Vertebrae</automatic>
+   
+      <automatic>Spinal Fractures</automatic>
+   
+      <automatic>Sternum</automatic>
+   
+      <automatic>surgery</automatic>
+   
+      <automatic>Thoracic Vertebrae</automatic>
+   
+      <automatic>Vertebroplasty</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1095_IM-0066-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral views of the chest, XXXX, XXXX XXXX XXXX</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1095_IM-0066-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k750</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k290</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

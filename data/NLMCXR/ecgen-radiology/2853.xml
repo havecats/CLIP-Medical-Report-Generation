@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2853"/>
+   <pmcId id="2853"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2853"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Comparison is XXXX to chest radiograph examination dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female with chest pain.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">A cardiac defibrillator device is in XXXX over the left chest wall with a single XXXX projecting over the right ventricle. The cardiac silhouette is at the upper limits of normal for size. The thoracic aorta is mildly tortuous and calcified. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Minimal degenerative endplate changes of the thoracic spine. No acute, displaced rib fractures.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute intrathoracic abnormality.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Implanted Medical Device/left</major>
+   
+      <major>Aorta, Thoracic/tortuous/mild</major>
+   
+      <major>Calcinosis/aorta, thoracic</major>
+   
+      <major>Thoracic Vertebrae/degenerative/mild</major>
+   
+      <automatic>Thoracic Aorta</automatic>
+
+   </MeSH>
+</eCitation>

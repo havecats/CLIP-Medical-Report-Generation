@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3484"/>
+   <pmcId id="3484"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3484"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX chest radiograph. CT thorax from XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">dyspnea</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Sternotomy XXXX are present. Patient has XXXX cardiac valve replacement. Atherosclerotic changes of the aorta. No focal infiltrate. Heart size is normal. Stable ectatic aorta. No pleural effusion. No pneumothorax. There is a stable XXXX deformity of T7. However, there is XXXX loss of vertebral body XXXX at T9 compared XXXX thorax from XXXX.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute cardiopulmonary findings. 2. XXXX deformities of T7 and T9. T9 is XXXX compared to XXXX thorax from XXXX.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Implanted Medical Device/heart</major>
+   
+      <major>Atherosclerosis/aorta</major>
+   
+      <major>Aorta/tortuous</major>
+   
+      <major>Deformity/thoracic vertebrae/multiple</major>
+   
+      <automatic>deformity</automatic>
+   
+      <automatic>sternotomy</automatic>
+   
+      <automatic>Sternotomy</automatic>
+
+   </MeSH>
+</eCitation>

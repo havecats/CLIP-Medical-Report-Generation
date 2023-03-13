@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2057"/>
+   <pmcId id="2057"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2057"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON"/>
+         
+            <AbstractText Label="INDICATION">Pacemaker implantation</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is a left sided cardiac defibrillator. Leads overlie the right atrium, right ventricle, and left lateral coronary vein. The leads appear intact. Heart size is within normal limits. There is no pneumothorax. Lungs are mildly hyperexpanded. There are persistent mild bibasilar interstitial opacities. There is left mid lung subsegmental atelectasis. No pleural effusion. There are degenerative changes of the spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Cardiac defibrillator. Leads appear intact. 2. No pneumothorax identified. 3. XXXX XXXX opacities. Findings may reflect atelectasis and/or mild fibrotic change.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Implanted Medical Device/left</major>
+   
+      <major>Lung/hyperdistention/mild</major>
+   
+      <major>Opacity/lung/base/bilateral/interstitial/mild</major>
+   
+      <major>Pulmonary Atelectasis/lingula</major>
+   
+      <major>Spine/degenerative</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Defibrillator</automatic>
+
+   </MeSH>
+</eCitation>

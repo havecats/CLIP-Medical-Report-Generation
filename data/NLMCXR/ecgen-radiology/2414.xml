@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2414"/>
+   <pmcId id="2414"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2414"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Hypoxemia</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Again, the patient is mildly rotated, and there is a mild XXXX curvature of the thoracic spine. Stable borderline cardiac enlargement. In the left lower lobe on the lateral view, there appears to be some patchy airspace disease which is probably mostly atelectasis from an elevated left diaphragm. The be difficult to completely exclude a superimposed pneumonia. No significant pleural effusion or pneumothorax. There is an extensive fusion of the posterior cervical spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Underinflated lungs with elevation of the left diaphragm and patchy airspace disease in the left base, probably mostly atelectasis. It would be difficult to completely exclude a superimposed pneumonia. No pleural effusion.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Technical Quality of Image Unsatisfactory </major>
+   
+      <major>Scoliosis/thoracic vertebrae/mild</major>
+   
+      <major>Cardiomegaly/borderline</major>
+   
+      <major>Spinal Fusion/cervical vertebrae/posterior/severe</major>
+   
+      <major>Lung/hypoinflation</major>
+   
+      <major>Diaphragm/left/elevated</major>
+   
+      <major>Airspace Disease/lung/base/left/patchy</major>
+   
+      <major>Pulmonary Atelectasis/base/left</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>fusion</automatic>
+   
+      <automatic>pneumonia</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Diaphragm</automatic>
+   
+      <automatic>Pneumonia</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2414_IM-0960-3001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2414_IM-0960-3001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k129</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k832</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1808</FCTH>
+               
+               
+               <SemanticContext60>f3p0k230</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2037"/>
+   <pmcId id="2037"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2037"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON"/>
+         
+            <AbstractText Label="INDICATION">XXXX and shortness of breath.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is hyperinflation lungs. There appears to be fibrosis or central pulmonary vascular congestion more pronounced on the left in the right. Heart is mildly enlarged. There no pleural effusions. Cardiac pacemaker seen. The skeletal structures show senescent changes.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Pulmonary vascular congestion versus chronic fibrotic changes. 2. Cardiomegaly. 3. Senescent changes.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Lung/hyperdistention</major>
+   
+      <major>Pulmonary Fibrosis/chronic</major>
+   
+      <major>Pulmonary Congestion/bilateral</major>
+   
+      <major>Cardiomegaly/mild</major>
+   
+      <major>Implanted Medical Device</major>
+   
+      <automatic>congestion</automatic>
+   
+      <automatic>fibroses</automatic>
+   
+      <automatic>hyperinflation lungs</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Fibrosis</automatic>
+
+   </MeSH>
+</eCitation>

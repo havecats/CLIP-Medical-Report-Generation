@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2556"/>
+   <pmcId id="2556"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2556"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Pacemaker Generator XXXX change</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is a left-sided cardiac pacemaker identified whose leads are stable in position overlying the right atrial appendage and right ventricle. Persistent cardiomegaly. XXXX calcifications are noted of the mitral valve. There are bilateral pleural effusions. Mild subsegmental atelectasis of the right lung base. No pneumothorax. No pulmonary edema. Mild tortuosity of the thoracic aorta. Mild elevation right diaphragm. Bone demineralization.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Stable position a left-sided pacemaker leads. 2. Stable cardiomegaly. 3. Small bilateral pleural effusions, right greater than left.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Implanted Medical Device/left</major>
+   
+      <major>Cardiomegaly</major>
+   
+      <major>Calcinosis/mitral valve</major>
+   
+      <major>Pleural Effusion/bilateral/small</major>
+   
+      <major>Pulmonary Atelectasis/base/right/mild</major>
+   
+      <major>Aorta, Thoracic/tortuous/mild</major>
+   
+      <major>Diaphragm/right/elevated/mild</major>
+   
+      <major>Bone Diseases, Metabolic</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>bilateral pleural effusion</automatic>
+   
+      <automatic>bone demineralization</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Mitral Valve</automatic>
+   
+      <automatic>Pacemaker, Artificial</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+
+   </MeSH>
+</eCitation>

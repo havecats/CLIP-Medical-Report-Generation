@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1998"/>
+   <pmcId id="1998"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1998"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None.</AbstractText>
+         
+            <AbstractText Label="INDICATION">Intermittent abdominal pain.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is a large hiatal hernia. The stomach is distended with an air-fluid level. This was incompletely demonstrated on the CT of the abdomen and pelvis. Heart is XXXX within normal limits. There is mild atelectatic change draped over the hernia sac. The lungs are otherwise grossly clear. There is no pneumothorax or pleural effusion. Heart size is XXXX within normal limits.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Large hiatal hernia with dilated intrathoracic stomach. This was incompletely evaluated on XXXX, however, radiographic and CT findings suggestive organoaxial gastric volvulus. A similar appearance was demonstrated on the XXXX exam and this is favored to represent a chronic finding. If clinically indicated, additional CT images through the mid to lower chest or upper XXXX XXXX be helpful for confirmation. 2. Otherwise, grossly clear lungs.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Hernia, Hiatal/large</major>
+   
+      <major>Pulmonary Atelectasis/mild</major>
+   
+      <automatic>Stomach Volvulus</automatic>
+   
+      <automatic>hernia sac</automatic>
+   
+      <automatic>large hiatal hernia</automatic>
+   
+      <automatic>organoaxial gastric volvulus</automatic>
+   
+      <automatic>Gastric Dilatation</automatic>
+   
+      <automatic>Hernia, Hiatal</automatic>
+
+   </MeSH>
+</eCitation>

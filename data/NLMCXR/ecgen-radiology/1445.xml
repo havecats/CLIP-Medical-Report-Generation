@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1445"/>
+   <pmcId id="1445"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1445"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON"/>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female, status post chest tube removal.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Stable cardiomediastinal silhouette. There has been interval removal of right chest tube with increased elevation of the right hemidiaphragm and XXXX right basilar atelectasis. Left basilar consolidation and pleural effusions seen. No XXXX focal consolidation or pneumothorax. There is a stable left PICC with tip overlying the mid SVC and large XXXX feeding tube courses below the diaphragm.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Increased elevation right hemidiaphragm with right basilar atelectasis. Left basilar airspace disease and pleural effusion unchanged. 2. Interval removal of right chest tube, no pneumothorax. .</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Diaphragm/right/elevated</major>
+   
+      <major>Pulmonary Atelectasis/base/right</major>
+   
+      <major>Consolidation/lung/base/left</major>
+   
+      <major>Pleural Effusion/base/left</major>
+   
+      <major>Catheters, Indwelling/left</major>
+   
+      <major>Tube, Inserted/large</major>
+   
+      <major>Airspace Disease/lung/base/left</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>picc</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1445_IM-0287-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1445_IM-0287-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k754</CEDD>
+               
+               
+               <ColorLayout>f1p0k147</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1128</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1394</FCTH>
+               
+               
+               <SemanticContext60>f3p0k151</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR1445_IM-0287-4004">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1445_IM-0287-4004.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1282</FCTH>
+               
+               
+               <SemanticContext60>f3p0k51</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

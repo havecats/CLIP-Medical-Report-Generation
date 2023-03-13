@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR851"/>
+   <pmcId id="851"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="851"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Rule out tuberculosis for preadmission XXXX for hospice.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The cardiac contours are normal. The lungs are underinflated, but XXXX given the underinflation, the XXXX appear enlarged, more XXXX than on the exam and XXXX. Osteophytic degeneration kyphotic thoracic spine. Mid and lower thoracic vertebroplasty has been performed. A right-sided chest XXXX is present with its tip in the upper SVC.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No active infiltrate. 2. Marked enlargement of the XXXX bilaterally, increased since the prior XXXX, XXXX adenopathy. 3. Underinflated lungs with basilar atelectasis.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Lung/hypoinflation</major>
+   
+      <major>Osteophyte/thoracic vertebrae</major>
+   
+      <major>Kyphosis/thoracic vertebrae</major>
+   
+      <major>Thoracic Vertebrae/degenerative</major>
+   
+      <major>Catheters, Indwelling/right</major>
+   
+      <major>Pulmonary Atelectasis/base</major>
+   
+      <automatic>adenopathy</automatic>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>degeneration</automatic>
+   
+      <automatic>vertebroplasty</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Hypertrophy</automatic>
+   
+      <automatic>Thoracic Vertebrae</automatic>
+
+   </MeSH>
+   <parentImage id="CXR851_IM-2374-13013">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Chest, 2 views, frontal and lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR851_IM-2374-13013.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k974</CEDD>
+               
+               
+               <ColorLayout>f1p0k75</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k606</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1808</FCTH>
+               
+               
+               <SemanticContext60>f3p0k76</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

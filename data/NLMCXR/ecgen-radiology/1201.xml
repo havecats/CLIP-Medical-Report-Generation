@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1201"/>
+   <pmcId id="1201"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1201"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female, dizziness, short of breath</AbstractText>
+         
+            <AbstractText Label="FINDINGS"/>
+         
+            <AbstractText Label="IMPRESSION">Apical lordotic frontal projection. Moderate enlargement of the cardiac silhouette with fullness of the left atrial appendage and XXXX pulmonary outflow. Mild aortic calcifications. Hilar calcifications suggest a previous granulomatous process. XXXX opacities in the lingula may be compatible scarring or subsegmental atelectasis. No focal alveolar consolidation, no definite pleural effusion seen. Chronic appearing irregular interstitial markings without typical findings of pulmonary edema.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiac Shadow/enlarged/moderate</major>
+   
+      <major>Calcinosis/aorta/mild</major>
+   
+      <major>Calcinosis/lung/hilum</major>
+   
+      <major>Opacity/lung/lingula</major>
+   
+      <major>Markings/lung/interstitial/irregular/chronic</major>
+   
+      <automatic>aortic calcifications</automatic>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>hilar calcification</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Scarring</automatic>
+
+   </MeSH>
+</eCitation>

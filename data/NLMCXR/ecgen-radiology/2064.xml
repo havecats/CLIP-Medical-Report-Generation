@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2064"/>
+   <pmcId id="2064"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2064"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">PA and lateral chest x-XXXX dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female with history of XXXX.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">An AICD is seen within the left chest wall with stable intact XXXX placement. Multiple surgical clips are seen within the upper midabdomen. The heart size is normal. Calcifications are seen within the aortic XXXX. Otherwise the mediastinum appears unremarkable. The lungs are hyperinflated with flattening of the diaphragms. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Emphysema without infiltrates.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Implanted Medical Device/left</major>
+   
+      <major>Surgical Instruments/abdomen/multiple</major>
+   
+      <major>Calcinosis/aorta</major>
+   
+      <major>Lung/hyperdistention</major>
+   
+      <major>Diaphragm/bilateral/flattened</major>
+   
+      <major>Emphysema</major>
+   
+      <automatic>emphysemas</automatic>
+   
+      <automatic>Diaphragm</automatic>
+   
+      <automatic>Emphysema</automatic>
+   
+      <automatic>Pulmonary Emphysema</automatic>
+
+   </MeSH>
+</eCitation>

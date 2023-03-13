@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR177"/>
+   <pmcId id="177"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="177"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">PA and lateral chest x-XXXX dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female with dyspnea.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The heart size is enlarged. The mediastinal contour is within normal limits. Calcification is seen within the aortic XXXX. XXXX interstitial opacities. There are no nodules or masses. Stable appearing right perihilar calcified granulomas. No visible pneumothorax. Bilateral costophrenic XXXX blunting, left worse than right. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Cardiomegaly with bilateral interstitial opacities. 2. Bilateral effusions and/or atelectasis, right worse than left.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly</major>
+   
+      <major>Opacity/lung/bilateral/interstitial</major>
+   
+      <major>Pulmonary Atelectasis/bilateral</major>
+   
+      <major>Calcinosis/aorta</major>
+   
+      <major>Calcified Granuloma/lung/hilum/right</major>
+   
+      <major>Costophrenic Angle/bilateral/blunted</major>
+   
+      <major>Pleural Effusion/bilateral</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>calcified granuloma</automatic>
+   
+      <automatic>effusion</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+
+   </MeSH>
+   <parentImage id="CXR177_IM-0503-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral chest, XXXX, XXXX XXXX XXXX </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR177_IM-0503-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR177_IM-0503-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and lateral chest, XXXX, XXXX XXXX XXXX </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR177_IM-0503-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1056</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k420</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1133</FCTH>
+               
+               
+               <SemanticContext60>f3p0k18</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3892"/>
+   <pmcId id="3892"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3892"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">none</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old with XXXX</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Normal heart size. Bibasilar patchy opacities, left greater than right. No pneumothorax or large pleural effusions. Left-sided subclavian central venous catheter with tip in the right atrium. No significant pulmonary edema. Low lung volumes. Exaggeration of the thoracic kyphosis with evidence of lower thoracic vertebral body the deep opacities. Multiple mild vertebral body wedge deformities in the mid thoracic spine. Moderate degenerative changes of the thoracic spine. Multiple bilateral rib fractures, some of which appear old. Interval XXXX deformity of the vertebral body XXXX XXXX the level of the two vertebroplasty XXXX.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Moderate left basilar lung consolidation with mild right basilar opacities, which may represent infection and/or atelectasis. 2. Bilateral rib fractures, most of which appear old. 3. Interval vertebral body XXXX deformity in the lumbar spine since XXXX. .</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Opacity/lung/base/bilateral/patchy</major>
+   
+      <major>Catheters, Indwelling/left</major>
+   
+      <major>Lung/hypoinflation</major>
+   
+      <major>Kyphosis/thoracic vertebrae</major>
+   
+      <major>Deformity/thoracic vertebrae/multiple/mild</major>
+   
+      <major>Thoracic Vertebrae/degenerative/moderate</major>
+   
+      <major>Fractures, Bone/ribs/bilateral/multiple/healed</major>
+   
+      <major>Consolidation/lung/base/left/moderate</major>
+   
+      <major>Opacity/lung/base/right/mild</major>
+   
+      <major>Deformity/lumbar vertebrae</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>deformity</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>infection</automatic>
+   
+      <automatic>lung consolidation</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>rib fracture</automatic>
+   
+      <automatic>central venous catheters</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Lumbar Vertebrae</automatic>
+   
+      <automatic>Rib Fractures</automatic>
+   
+      <automatic>Thoracic Vertebrae</automatic>
+   
+      <automatic>Vertebroplasty</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3892_IM-1974-0001-0001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3892_IM-1974-0001-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1013</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k257</FCTH>
+               
+               
+               <SemanticContext60>f3p0k151</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR3892_IM-1974-0001-0002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3892_IM-1974-0001-0002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k750</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1200</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k28</FCTH>
+               
+               
+               <SemanticContext60>f3p0k151</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

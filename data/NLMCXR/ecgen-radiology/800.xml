@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR800"/>
+   <pmcId id="800"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="800"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX, weakness</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The lungs and pleural spaces show no acute abnormality. Heart size is enlarged, pulmonary vascularity within normal limits. Marked tortuosity of the thoracic aorta. There are advanced degenerative changes of the glenohumeral joints bilaterally with bone-on-bone articulation, remodeling of the glenoid, and extensive subchondral cystic change. No displaced rib fractures are visualized. Diffuse osteopenia of the thoracic spine with a mid thoracic and several lower thoracic XXXX deformities, age-indeterminate. There is an air-fluid level in the middle mediastinum, most XXXX secondary to a large hiatal hernia.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute thoracic abnormality. 2. Cardiomegaly with marked tortuosity of the thoracic aorta. 3. Probable large hiatal hernia. 4. Limited evaluation of the thoracic spine secondary to osteopenia, age-indeterminate XXXX fracture deformities.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly</major>
+   
+      <major>Aorta, Thoracic/tortuous/severe</major>
+   
+      <major>Hernia, Hiatal/large</major>
+   
+      <major>Bone Diseases, Metabolic/thoracic vertebrae/diffuse</major>
+   
+      <major>Fractures, Bone/thoracic vertebrae</major>
+   
+      <major>Deformity/thoracic vertebrae/multiple</major>
+   
+      <major>Humerus/degenerative/severe</major>
+   
+      <major>Technical Quality of Image Unsatisfactory </major>
+   
+      <automatic>deformity</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>fracture</automatic>
+   
+      <automatic>large hiatal hernia</automatic>
+   
+      <automatic>osteopenia</automatic>
+   
+      <automatic>Bone Density</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Fractures, Bone</automatic>
+   
+      <automatic>Hernia, Hiatal</automatic>
+   
+      <automatic>Osteopenia</automatic>
+   
+      <automatic>Rib</automatic>
+   
+      <automatic>Rib Fractures</automatic>
+   
+      <automatic>Spinal Fractures</automatic>
+   
+      <automatic>Spine</automatic>
+   
+      <automatic>Thoracic Aorta</automatic>
+   
+      <automatic>Thoracic Vertebrae</automatic>
+   
+      <automatic>Thoracic Wall</automatic>
+
+   </MeSH>
+   <parentImage id="CXR800_IM-2334-4001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR800_IM-2334-4001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k518</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1133</FCTH>
+               
+               
+               <SemanticContext60>f3p0k191</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR800_IM-2334-4004-0001">
+      
+      
+      <figureId>F3</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR800_IM-2334-4004-0001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR800_IM-2334-4004-0002">
+      
+      
+      <figureId>F4</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR800_IM-2334-4004-0002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k710</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2450</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR240"/>
+   <pmcId id="240"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="240"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">low back pn</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Chest. There is no change in the strandy scarring in the right apex. No XXXX infiltrates or masses in the lungs. Heart and mediastinum remain normal. Lumbosacral spine. disc spaces are old narrow, and large osteophytes present on the vertebral bodies, worst at L2-L3. XXXX elements from L4 through S1 are sclerotic. Sacrum and sacroiliac joints are normal. Calcific aortic disease is present.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Chest. No change right upper lobe scar. No acute disease. 2. Lumbosacral spine. Multiple levels of advanced degenerative disc disease and XXXX arthritis.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cicatrix/lung/apex/right/streaky</major>
+   
+      <major>Calcinosis/aorta</major>
+   
+      <automatic>aortic disease</automatic>
+   
+      <automatic>arthritis</automatic>
+   
+      <automatic>degenerative disc diseases</automatic>
+   
+      <automatic>osteophytes</automatic>
+   
+      <automatic>scar</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>sclerotic</automatic>
+   
+      <automatic>Arthritis</automatic>
+   
+      <automatic>Intervertebral Disc Degeneration</automatic>
+   
+      <automatic>Lumbar Vertebrae</automatic>
+   
+      <automatic>Lumbosacral Region</automatic>
+   
+      <automatic>Sacrum</automatic>
+   
+      <automatic>Scarring</automatic>
+   
+      <automatic>Spinal Osteophytosis</automatic>
+   
+      <automatic>Spine</automatic>
+
+   </MeSH>
+   <parentImage id="CXR240_IM-0950-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>SPINE LUMBAR 2 OR 3 VIEWS; two-view chest. XXXX, XXXX XXXX PM </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR240_IM-0950-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k216</CEDD>
+               
+               
+               <ColorLayout>f1p0k109</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k28</FCTH>
+               
+               
+               <SemanticContext60>f3p0k181</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2415"/>
+   <pmcId id="2415"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2415"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">CT chest XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Shortness of breath</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The heart is mildly enlarged. The lungs are hypoinflated with mildly elevated left hemidiaphragm. There is patchy opacity in the left lung base which may be secondary to atelectasis and/or possible infiltrate. Increased markings are noted throughout and were present on prior CT. The study is limited secondary to moderate XXXX motion. Underlying emphysematous changes are identified.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks. IMPRESSION: Exam: CHEST 2V FRONTAL/LATERAL Date: XXXX, XXXX XXXX PM Comparison: CT chest XXXX History: Shortness of breath FINDINGS: The heart is mildly enlarged. The lungs are hypoinflated with mildly elevated left hemidiaphragm. There is patchy opacity in the left lung base which may be secondary to atelectasis and/or possible infiltrate. Increased markings are noted throughout and were present on prior CT. The study is limited secondary to moderate XXXX motion. Underlying emphysematous changes are identified. IMPRESSION: Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly/mild</major>
+   
+      <major>Lung/hypoinflation</major>
+   
+      <major>Diaphragm/left/elevated/mild</major>
+   
+      <major>Opacity/lung/base/left/patchy</major>
+   
+      <major>Markings/prominent</major>
+   
+      <major>Technical Quality of Image Unsatisfactory </major>
+   
+      <major>Emphysema</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>infiltrates</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Diaphragm</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2415_IM-0961-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>CHEST 2V FRONTAL/LATERAL </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2415_IM-0961-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1637</CEDD>
+               
+               
+               <ColorLayout>f1p0k98</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k97</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1731</FCTH>
+               
+               
+               <SemanticContext60>f3p0k238</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2415_IM-0961-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>CHEST 2V FRONTAL/LATERAL </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2415_IM-0961-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1013</CEDD>
+               
+               
+               <ColorLayout>f1p0k83</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1133</FCTH>
+               
+               
+               <SemanticContext60>f3p0k18</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

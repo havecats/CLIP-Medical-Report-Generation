@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2907"/>
+   <pmcId id="2907"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2907"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">CT XXXX and chest x-XXXX XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">The patient is a XXXX-year-old male with XXXX.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is stable thick biapical scarring/pleural thickening. There is XXXX patchy airspace disease in the right upper lobe along the XXXX fissure. The lungs are hyperexpanded with COPD. Increasing large left pleural effusion with increased airspace opacity in the left lung base. There has been interval increase in size of a 4.9 cm masslike opacity in the periphery of the left lung base, which is not definitely identified on the lateral XXXX. XXXX sternotomy XXXX, mediastinal clips and prosthetic heart valve appear unchanged. No pneumothorax.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Right upper lobe pneumonia. 2. Increasing large left pleural effusion. Increasing left basilar opacity; atelectasis/airspace disease. 3. Increased size of masslike left lung base opacity seen only on PA view. This could represent loculated fluid, atelectasis or a lung mass. CT scan is recommended to further evaluate. Critical result notification documented through Primordial. .</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cicatrix/lung/apex/bilateral</major>
+   
+      <major>Thickening/pleura/apex/bilateral</major>
+   
+      <major>Airspace Disease/lung/upper lobe/right/patchy</major>
+   
+      <major>Lung/hyperdistention</major>
+   
+      <major>Pulmonary Disease, Chronic Obstructive</major>
+   
+      <major>Pleural Effusion/left/large</major>
+   
+      <major>Opacity/lung/base/left</major>
+   
+      <major>Mass/lung/base/left</major>
+   
+      <major>Surgical Instruments/mediastinum</major>
+   
+      <major>Implanted Medical Device/heart</major>
+   
+      <major>Pneumonia/upper lobe/right</major>
+   
+      <major>Airspace Disease/lung/base/left</major>
+   
+      <major>Pulmonary Atelectasis/base/left</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>copd</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>pleural thickening</automatic>
+   
+      <automatic>right upper lobe pneumonia</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>sternotomy</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+   
+      <automatic>Pneumonia</automatic>
+
+   </MeSH>
+</eCitation>

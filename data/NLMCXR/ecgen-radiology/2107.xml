@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2107"/>
+   <pmcId id="2107"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2107"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">AP chest dated XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old post pacemaker implantation. Left arm in a sling.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Heart size is mildly enlarged. The pulmonary XXXX and mediastinum are within normal limits. There is biapical scarring noted. There is slight bilateral costovertebral XXXX blunting which may indicate XXXX effusions. No pneumothorax is identified. There is no focal air space opacity to suggest a pneumonia. There is a left-sided dual-XXXX XXXX unchanged from the comparison study with leads in expected position.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">Left-sided dual-XXXX pacemaker as expected. Possible XXXX effusions.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Cardiomegaly/mild</major>
+   
+      <major>Cicatrix/lung/apex/bilateral</major>
+   
+      <major>Implanted Medical Device/left</major>
+   
+      <automatic>effusion</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>Pacemaker, Artificial</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+
+   </MeSH>
+</eCitation>

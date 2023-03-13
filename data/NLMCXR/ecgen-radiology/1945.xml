@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1945"/>
+   <pmcId id="1945"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1945"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Thoracic spine series XXXX, chest series XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old male, evaluate heart or placement</AbstractText>
+         
+            <AbstractText Label="FINDINGS"/>
+         
+            <AbstractText Label="IMPRESSION">XXXX displacement of a fusion XXXX on the lateral view with distal tip closely approximating the skin surface with a change in alignment since the previous exam. Severe scoliosis, tracheostomy tube, left PICC tip in the right hemithorax in the expected location of the right subclavian vein, repositioning recommended. Heart size within normal limits for technique, retrocardiac opacity XXXX due at XXXX in part to atelectasis with small left hemithorax, bronchovascular crowding without typical findings of pulmonary edema. VP shunt tubing and right nephrostomy tube.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Scoliosis/severe</major>
+   
+      <major>Tube, Inserted/trachea</major>
+   
+      <major>Catheters, Indwelling/left</major>
+   
+      <major>Opacity/retrocardiac</major>
+   
+      <major>Pulmonary Atelectasis</major>
+   
+      <major>Thorax/left/small</major>
+   
+      <major>Markings/bronchovascular</major>
+   
+      <major>Tube, Inserted/right</major>
+   
+      <major>Catheters, Indwelling</major>
+   
+      <automatic>nephrostomy</automatic>
+   
+      <automatic>tracheostomies</automatic>
+   
+      <automatic>Nephrostomy, Percutaneous</automatic>
+   
+      <automatic>Tracheostomy</automatic>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>fusion</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>scolioses</automatic>
+   
+      <automatic>displacement</automatic>
+   
+      <automatic>picc</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Scoliosis</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1945_IM-0614-2001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1945_IM-0614-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k377</CEDD>
+               
+               
+               <ColorLayout>f1p0k66</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k436</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1808</FCTH>
+               
+               
+               <SemanticContext60>f3p0k191</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR1945_IM-0614-9001">
+      
+      
+      <figureId>F3</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1945_IM-0614-9001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k832</CEDD>
+               
+               
+               <ColorLayout>f1p0k31</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1179</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1271</FCTH>
+               
+               
+               <SemanticContext60>f3p0k76</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

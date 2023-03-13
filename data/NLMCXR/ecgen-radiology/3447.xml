@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3447"/>
+   <pmcId id="3447"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3447"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old XXXX with chest pain.</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The cardiomediastinal silhouette is stable. There is tortuosity the thoracic aorta. There is evidence of prior granulomatous disease. Chronic interstitial markings XXXX represents the sequela of emphysema. There is scarring in the lingula. There is no focal airspace consolidation. There is no pneumothorax or large pleural effusion. The left chest wall pacemaker device with dual intracardiac leads is again noted.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute cardiopulmonary abnormality. 2. Chronic changes consistent with emphysema. No pneumothorax.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Aorta, Thoracic/tortuous</major>
+   
+      <major>Granulomatous Disease</major>
+   
+      <major>Markings/lung/interstitial/chronic</major>
+   
+      <major>Emphysema</major>
+   
+      <major>Cicatrix/lung/lingula</major>
+   
+      <major>Implanted Medical Device/left</major>
+   
+      <automatic>emphysemas</automatic>
+   
+      <automatic>granulomatous disease</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>Emphysema</automatic>
+   
+      <automatic>Pulmonary Emphysema</automatic>
+
+   </MeSH>
+</eCitation>

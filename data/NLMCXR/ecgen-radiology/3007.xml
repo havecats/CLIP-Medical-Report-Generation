@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3007"/>
+   <pmcId id="3007"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3007"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">CT abdomen and pelvis XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old male, XXXX XXXX placement</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is a cardiac pacemaker. Leads overlie the right atrium and right ventricle. The leads appear intact. There are XXXX left lower lobe opacities, XXXX subsegmental atelectasis or scarring. There are mild right apical opacities, XXXX scarring. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification. There are mild diffuse degenerative changes of the spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute findings. 2. XXXX left basilar opacities, XXXX subsegmental atelectasis or scarring. 3. Right apical opacities; the appearance XXXX scarring.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Implanted Medical Device</major>
+   
+      <major>Opacity/lung/base/left</major>
+   
+      <major>Pulmonary Atelectasis/base/left</major>
+   
+      <major>Cicatrix/lung/base/left</major>
+   
+      <major>Opacity/lung/apex/right/mild</major>
+   
+      <major>Cicatrix/lung/apex/right/mild</major>
+   
+      <major>Atherosclerosis/aorta</major>
+   
+      <major>Spine/degenerative/diffuse/mild</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>vascular calcification</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Pacemaker, Artificial</automatic>
+   
+      <automatic>Scarring</automatic>
+
+   </MeSH>
+</eCitation>

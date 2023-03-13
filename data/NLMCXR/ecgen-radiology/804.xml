@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR804"/>
+   <pmcId id="804"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="804"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old male with XXXX onset chest pain</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Low lung volumes are noted. Allowing for technical factors the heart size is XXXX normal. The mediastinum is unremarkable. There is increased bilateral predominantly perihilar interstitial opacity, XXXX consistent with pulmonary edema. There is no pneumothorax or pleural effusion. The XXXX are unremarkable.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Increased bilateral interstitial opacity, XXXX consistent with mild interstitial edema.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Lung/hypoinflation</major>
+   
+      <major>Opacity/lung/hilum/bilateral/interstitial</major>
+   
+      <major>Pulmonary Edema/interstitial/mild</major>
+   
+      <automatic>edemas</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>pulmonary edema</automatic>
+   
+      <automatic>Edema</automatic>
+   
+      <automatic>Pulmonary Edema</automatic>
+
+   </MeSH>
+   <parentImage id="CXR804_IM-2338-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and Lateral Chest Radiograph XXXX, XXXX at XXXX a.m. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR804_IM-2338-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1333</CEDD>
+               
+               
+               <ColorLayout>f1p0k65</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k1128</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k84</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR804_IM-2338-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and Lateral Chest Radiograph XXXX, XXXX at XXXX a.m. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR804_IM-2338-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k39</CEDD>
+               
+               
+               <ColorLayout>f1p0k65</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k338</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k84</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

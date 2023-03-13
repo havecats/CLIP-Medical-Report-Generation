@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR1750"/>
+   <pmcId id="1750"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="1750"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old female with chest pain</AbstractText>
+         
+            <AbstractText Label="FINDINGS">The heart size is within normal limits. After cirrhotic calcification of the thoracic aorta. Hyperexpanded lungs with flattened diaphragms and increased retrosternal clear space suggestive of emphysema. Streaky left basilar opacities are favored to represent scarring. No pleural effusions or pneumothorax. Exaggerated thoracic kyphosis. Scattered calcified granulomas bilaterally. No acute bony abnormalities.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute cardiopulmonary findings. 2. Chronic changes of emphysema and left basilar scarring.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Calcinosis/aorta, thoracic</major>
+   
+      <major>Lung/hyperdistention</major>
+   
+      <major>Diaphragm/bilateral/flattened</major>
+   
+      <major>Opacity/lung/base/left/streaky</major>
+   
+      <major>Cicatrix/lung/base/left</major>
+   
+      <major>Kyphosis/thoracic vertebrae/severe</major>
+   
+      <major>Calcified Granuloma/lung/bilateral/scattered</major>
+   
+      <major>Emphysema/chronic</major>
+   
+      <automatic>calcified granuloma</automatic>
+   
+      <automatic>emphysemas</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>scarring</automatic>
+   
+      <automatic>Calcinosis</automatic>
+   
+      <automatic>Emphysema</automatic>
+   
+      <automatic>Pulmonary Emphysema</automatic>
+   
+      <automatic>Scarring</automatic>
+   
+      <automatic>Thoracic Aorta</automatic>
+
+   </MeSH>
+   <parentImage id="CXR1750_IM-0493-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Chest radiographs, 2 XXXX and lateral </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1750_IM-0493-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1013</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1972</FCTH>
+               
+               
+               <SemanticContext60>f3p0k277</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR1750_IM-0493-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Chest radiographs, 2 XXXX and lateral </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR1750_IM-0493-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k220</CEDD>
+               
+               
+               <ColorLayout>f1p0k36</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k666</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k2423</FCTH>
+               
+               
+               <SemanticContext60>f3p0k74</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

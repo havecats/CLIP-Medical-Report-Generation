@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2912"/>
+   <pmcId id="2912"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2912"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">XXXX, XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">ICD/PPM IMPLANT;</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Central pulmonary vascular congestion and mild interstitial opacities are present. Negative for pneumothorax. Moderate volume bilateral pleural effusions are present. Mild cardiomegaly. Right upper extremity PICC terminates at the cavoatrial junction. Implantable cardiac device and leads appears unchanged.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Central pulmonary vascular congestion and mild interstitial edema, improved since the prior study. 2. Moderate volume bilateral pleural effusions. 3. Mild cardiomegaly. .</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Pulmonary Congestion</major>
+   
+      <major>Opacity/lung/interstitial/mild</major>
+   
+      <major>Pleural Effusion/bilateral/moderate</major>
+   
+      <major>Cardiomegaly/mild</major>
+   
+      <major>Catheters, Indwelling/right</major>
+   
+      <major>Implanted Medical Device</major>
+   
+      <major>Pulmonary Edema/interstitial/mild</major>
+   
+      <automatic>bilateral pleural effusion</automatic>
+   
+      <automatic>congestion</automatic>
+   
+      <automatic>edemas</automatic>
+   
+      <automatic>opacity</automatic>
+   
+      <automatic>picc</automatic>
+   
+      <automatic>Cardiomegaly</automatic>
+   
+      <automatic>Edema</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+   
+      <automatic>Pulmonary Edema</automatic>
+
+   </MeSH>
+</eCitation>

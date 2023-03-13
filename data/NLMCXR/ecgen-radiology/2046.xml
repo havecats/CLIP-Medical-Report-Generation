@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2046"/>
+   <pmcId id="2046"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2046"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">None</AbstractText>
+         
+            <AbstractText Label="INDICATION">786.59, 54yof with chest pain;:attn: sternum,direct XXXX to sternum 3 days ago</AbstractText>
+         
+            <AbstractText Label="FINDINGS">There is a minimally displaced fracture of the right lateral 7th rib. There is a small right pleural effusion with associated atelectasis of the right lower lobe. There appears to be a healing fracture of the posterolateral right 8th rib. There is questionable cortical defect involving the sternum seen XXXX on lateral view. XXXX would be XXXX to evaluate this finding. As the small right-sided pleural effusion is visible on both PA and lateral views. There is a XXXX left-sided pleural effusion as well. The left lung appears grossly clear. Heart size and pulmonary XXXX appear normal. There is a mild scoliosis involving the thoracic spine.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Minimally displaced fracture involving the lateral right 7th rib, XXXX acute. There is and associated small right pleural effusion and right basilar atelectasis. 2. Questionable anterior XXXX cortical disruption seen XXXX on lateral view. XXXX would be needed to evaluate this. 3. XXXX left-sided pleural effusion</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Fractures, Bone/ribs/right/multiple</major>
+   
+      <major>Pleural Effusion/right/small</major>
+   
+      <major>Pulmonary Atelectasis/base/right</major>
+   
+      <major>Pleural Effusion/left</major>
+   
+      <major>Scoliosis/thoracic vertebrae/mild</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>displaced fractures</automatic>
+   
+      <automatic>fracture</automatic>
+   
+      <automatic>left-sided pleural effusion</automatic>
+   
+      <automatic>pleural effusions</automatic>
+   
+      <automatic>right-sided pleural effusion</automatic>
+   
+      <automatic>scolioses</automatic>
+   
+      <automatic>Atelectasis</automatic>
+   
+      <automatic>Pleural Effusion</automatic>
+   
+      <automatic>Rib</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2046_IM-0688-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2046_IM-0688-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1637</CEDD>
+               
+               
+               <ColorLayout>f1p0k137</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k184</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1775</FCTH>
+               
+               
+               <SemanticContext60>f3p0k238</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+   <parentImage id="CXR2046_IM-0688-2002">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>Xray Chest PA and Lateral</caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2046_IM-0688-2002.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1498</CEDD>
+               
+               
+               <ColorLayout>f1p0k129</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k893</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1394</FCTH>
+               
+               
+               <SemanticContext60>f3p0k305</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

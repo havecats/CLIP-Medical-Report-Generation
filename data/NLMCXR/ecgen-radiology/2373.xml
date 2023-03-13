@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR2373"/>
+   <pmcId id="2373"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="2373"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Chest CT XXXX, XXXX</AbstractText>
+         
+            <AbstractText Label="INDICATION">Increased dyspnea on exertion, XXXX with COPD on home oxygen</AbstractText>
+         
+            <AbstractText Label="FINDINGS">Normal heart size. Dilated pulmonary arteries. Atherosclerotic calcifications of the aorta. No focal airspace consolidation. Decreased biapical vascular markings with moderate hyperexpansion the lungs, consistent with obstructive pulmonary disease. No pleural effusion or pneumothorax.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. Moderate hyperinflation of the lungs. 2. Dilated pulmonary arteries. This may reflect pulmonary hypertension.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Pulmonary Artery/enlarged</major>
+   
+      <major>Atherosclerosis/aorta</major>
+   
+      <major>Lung/hyperdistention/moderate</major>
+   
+      <major>Pulmonary Disease, Chronic Obstructive</major>
+   
+      <major>Markings/lung/apex/bilateral</major>
+   
+      <automatic>calcifications of the aorta</automatic>
+   
+      <automatic>hyperinflation</automatic>
+   
+      <automatic>obstructive pulmonary diseases</automatic>
+   
+      <automatic>pulmonary hypertension</automatic>
+   
+      <automatic>Dilatation, Pathologic</automatic>
+   
+      <automatic>Pulmonary Artery</automatic>
+   
+      <automatic>Pulmonary Disease, Obstructive</automatic>
+   
+      <automatic>Pulmonary Hypertension</automatic>
+
+   </MeSH>
+   <parentImage id="CXR2373_IM-0934-1001">
+      
+      
+      <figureId>F1</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX XXXX, XXXX XXXX hours </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR2373_IM-0934-1001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k1637</CEDD>
+               
+               
+               <ColorLayout>f1p0k65</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k402</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1731</FCTH>
+               
+               
+               <SemanticContext60>f3p0k238</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>

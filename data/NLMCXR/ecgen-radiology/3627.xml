@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eCitation>
+   <meta type="rr"/>
+   <uId id="CXR3627"/>
+   <pmcId id="3627"/>
+   <docSource>CXR</docSource>
+   <IUXRId id="3627"/>
+   <licenseType>open-access</licenseType>
+   <licenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</licenseURL>
+   <ccLicense>byncnd</ccLicense>
+   <articleURL/>
+   <articleDate>2013-08-01</articleDate>
+   <articleType>XR</articleType>
+   <publisher>Indiana University</publisher>
+   <title>Indiana University Chest X-ray Collection</title>
+   <note>The data are drawn from multiple hospital systems.</note>
+   <specialty>pulmonary diseases</specialty>
+   <subset>CXR</subset>
+   <MedlineCitation Owner="Indiana University" Status="supplied by publisher">
+   
+      <Article PubModel="Electronic">
+      
+         <Journal>
+         
+            <JournalIssue>
+            
+               <PubDate>
+               
+                  <Year>2013</Year>
+               
+                  <Month>08</Month>
+               
+                  <Day>01</Day>
+            
+               </PubDate>
+         
+            </JournalIssue>
+      
+         </Journal>
+      
+         <ArticleTitle>Indiana University Chest X-ray Collection</ArticleTitle>
+      
+         <Abstract>
+         
+            <AbstractText Label="COMPARISON">Chest radiograph on XXXX.</AbstractText>
+         
+            <AbstractText Label="INDICATION">XXXX-year-old woman with chest pain</AbstractText>
+         
+            <AbstractText Label="FINDINGS">No acute osseous abnormality. Scattered degenerative changes of the thoracic spine. Soft tissues are within normal limits. Normal heart size. Stable elevation right hemidiaphragm compared to exam on XXXX. Bilateral hilar lymph XXXX. No focal area of consolidation, pleural effusion, pneumothorax. Bibasilar atelectasis.</AbstractText>
+         
+            <AbstractText Label="IMPRESSION">1. No acute radiographic cardiopulmonary process.</AbstractText>
+      
+         </Abstract>
+      
+         <Affiliation>Indiana University</Affiliation>
+      
+         <AuthorList CompleteYN="Y">
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Kohli</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>MD</Initials>
+         
+            </Author>
+         
+            <Author ValidYN="Y">
+            
+               <LastName>Rosenman</LastName>
+            
+               <ForeName>Marc</ForeName>
+            
+               <Initials>M</Initials>
+         
+            </Author>
+      
+         </AuthorList>
+      
+         <Language>eng</Language>
+      
+         <PublicationTypeList>
+         
+            <PublicationType>Radiology Report</PublicationType>
+      
+         </PublicationTypeList>
+      
+         <ArticleDate>
+         
+            <Year>2013</Year>
+         
+            <Month>08</Month>
+         
+            <Day>01</Day>
+      
+         </ArticleDate>
+   
+      </Article>
+   
+      <EssieArticleTitle>Indiana University Chest X-ray Collection</EssieArticleTitle>
+   
+      <IMedAuthor>Marc David Kohli MD</IMedAuthor>
+   
+      <IMedAuthor>Marc Rosenman M</IMedAuthor>
+
+   </MedlineCitation>
+   <MeSH>
+   
+      <major>Thoracic Vertebrae/scattered/degenerative</major>
+   
+      <major>Diaphragm/right/elevated</major>
+   
+      <major>Pulmonary Atelectasis/base/bilateral</major>
+   
+      <major>Lung/hilum/lymph nodes/bilateral</major>
+   
+      <automatic>atelectases</automatic>
+   
+      <automatic>degenerative change</automatic>
+   
+      <automatic>Atelectasis</automatic>
+
+   </MeSH>
+   <parentImage id="CXR3627_IM-1795-2001">
+      
+      
+      <figureId>F2</figureId>
+      
+      
+      <caption>PA and lateral chest x-XXXX XXXX at XXXX hours. </caption>
+      
+      
+      <panel type="single">
+         
+         
+         <url>/hadoop/storage/radiology/extract/CXR3627_IM-1795-2001.jpg</url>
+         
+         
+         <imgModality>7</imgModality>
+         
+         
+         <region type="panel">
+            
+            
+            <globalImageFeatures>
+               
+               
+               <CEDD>f2p0k39</CEDD>
+               
+               
+               <ColorLayout>f1p0k16</ColorLayout>
+               
+               
+               <EdgeHistogram>f0p0k97</EdgeHistogram>
+               
+               
+               <FCTH>f4p0k1731</FCTH>
+               
+               
+               <SemanticContext60>f3p0k138</SemanticContext60>
+            
+            
+            </globalImageFeatures>
+         
+         
+         </region>
+      
+      
+      </panel>
+   
+   
+   </parentImage>
+</eCitation>
