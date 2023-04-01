@@ -29,7 +29,7 @@ def dict_save_json(dict, file_name):
 
 if __name__ == '__main__':
     xml_path = '../../datasets_origin/ecgen-radiology'  # you need to download .xml data from IU X-ray dataset website
-    frontal_image_path = '../IUdata/NLMXCR_Frontal'
+    frontal_image_path = '/NLMXCR_Frontal'
     # The image name
     frontal_names_lst = []
     # The image number after CXR
