@@ -27,9 +27,10 @@ def test(img_en_path, imp_de_path, fin_de_path, args):
 
     # testing dataset loader
     eval_data_loader = get_loader(args.image_dir, args.eval_json_dir,
-                                  vocab, test_transforms, args.eval_batch_size,
+                                  vocab, args.eval_batch_size,
                                   args.num_workers, args.max_impression_len,
-                                  args.max_sen_num, args.max_single_sen_len, shuffle=False)
+                                  args.max_sen_num, args.max_single_sen_len, shuffle=False,
+                                  device = device)
 
     # Models
     image_encoder = EncoderCNN().eval().to(device)

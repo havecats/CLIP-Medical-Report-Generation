@@ -9,6 +9,7 @@ from IUdata.build_vocab import Vocabulary, JsonReader
 import numpy as np
 from torchvision import transforms
 import pickle
+import clip
 
 
 class ChestXrayDataSet(Dataset):
@@ -19,7 +20,8 @@ class ChestXrayDataSet(Dataset):
                  imp_max,
                  fin_s_max,
                  fin_w_max,
-                 transforms=None):
+                 transforms=None,
+                 device=None):
         self.image_dir = image_dir
         self.data = JsonReader(data_json)
         self.vocab = vocabulary
@@ -31,11 +33,17 @@ class ChestXrayDataSet(Dataset):
         # fin_w_max is the maximum number of words for one-sentence in finding
         self.fin_w_max = fin_w_max
 
+        self.device=device
+
     def __getitem__(self, index):
         frontal_img_name = self.data[index][0].split(',')[0]
         frontal_img = Image.open(os.path.join(self.image_dir, frontal_img_name + '.png')).convert('RGB')
         if self.transform is not None:
             frontal_img = self.transform(frontal_img)
+        else:
+            self.transform=get_preprocess(self.device)
+            frontal_img = self.transform(frontal_img)
+
         try:
             impression = self.data[index][1][0]
             finding = self.data[index][1][1]
@@ -180,16 +188,22 @@ def collate_fn(data):
     return frontal_images, f_img_id, impression_targets, finding_targets, imp_lengths, fin_lengths
 
 
+def get_preprocess(device):
+    clip_model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
+    return preprocess
+
+
 def get_loader(image_dir, data_json, vocabulary,
-               transform, batch_size, num_workers,
-               imp_max, fin_s_max, fin_w_max, shuffle=False):
+                batch_size, num_workers,
+               imp_max, fin_s_max, fin_w_max, transform=None, shuffle=False, device=None):
     dataset = ChestXrayDataSet(image_dir=image_dir,
                                data_json=data_json,
                                vocabulary=vocabulary,
                                imp_max=imp_max,
                                fin_s_max=fin_s_max,
                                fin_w_max=fin_w_max,
-                               transforms=transform)
+                               transforms=transform,
+                               device=device)
     data_loader = torch.utils.data.DataLoader(dataset=dataset,
                                               batch_size=batch_size,
                                               shuffle=shuffle,

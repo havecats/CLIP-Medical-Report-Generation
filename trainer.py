@@ -7,12 +7,14 @@ import numpy as np
 import os
 import pickle
 import copy
+# import clip
 
 from utils.load_data import get_loader
 from utils.models import EncoderCNN, Impression_Decoder, Atten_Sen_Decoder
 from metrics import compute_metrics, generate_text_file
 from utils.logger import create_logger
 from IUdata.build_vocab import JsonReader, Vocabulary
+
 
 # Device configuration
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -30,22 +32,23 @@ def train_net(num_run, logger, args):
         os.makedirs(args.log_path)
 
     # Image preprocessing, normalization for the pretrained resnet 图像预处理，对预训练的resnet进行归一化处理
-    train_transform = transforms.Compose([
-        transforms.Resize(args.resize_size),
-        transforms.RandomCrop(args.crop_size),
-        transforms.ToTensor(),
-        transforms.Normalize((0.485, 0.456, 0.406),
-                             (0.229, 0.224, 0.225))])
+    # train_transform = transforms.Compose([
+    #     transforms.Resize(args.resize_size),
+    #     transforms.RandomCrop(args.crop_size),
+    #     transforms.ToTensor(),
+    #     transforms.Normalize((0.485, 0.456, 0.406),
+    #                          (0.229, 0.224, 0.225))])
     with open(args.vocab_path, 'rb') as f:
         vocab = pickle.load(f)
         vocab_size = len(vocab)
 
     # Data loader
     data_loader = get_loader(args.image_dir, args.json_dir,
-                             vocab, train_transform, args.batch_size,
+                             vocab, args.batch_size,
                              args.num_workers, args.max_impression_len,
                              args.max_sen_num, args.max_single_sen_len,
-                             shuffle=True)
+                             transform=None, shuffle=True,
+                             device=device)
     # Models
     image_encoder = EncoderCNN().train().to(device)
     impression_decoder = Impression_Decoder(args.embed_size, args.hidden_size,
@@ -177,9 +180,11 @@ def test_in_training(image_encoder, impression_decoder, finding_decoder, vocab, 
         transforms.Normalize((0.485, 0.456, 0.406),
                              (0.229, 0.224, 0.225))])
     eval_data_loader = get_loader(args.image_dir, args.eval_json_dir,
-                                  vocab, test_transforms, args.eval_batch_size,
+                                  vocab, args.eval_batch_size,
                                   args.num_workers, args.max_impression_len,
-                                  args.max_sen_num, args.max_single_sen_len, shuffle=False)
+                                  args.max_sen_num, args.max_single_sen_len,
+                                  shuffle=False,
+                                  device=device)
     vocab_size = len(vocab)
 
     # Models
@@ -229,13 +234,14 @@ if __name__ == '__main__':
     parser.add_argument('--num_workers', type=int, default=0, help='multi-process data loading')  # 4->0
     parser.add_argument('--embed_size', type=int, default=512, help='The embed_size for vocabulary and images')
     parser.add_argument('--hidden_size', type=int, default=512, help='The number of hidden states in LSTM layers')
-    parser.add_argument('--num_global_features', type=int, default=2048,
+    #将特征features由2048改为512
+    parser.add_argument('--num_global_features', type=int, default=512,
                         help='The number of global features for image encoder')
     parser.add_argument('--imp_layers_num', type=int, default=1, help='The number of LSTM layers in impression decoder')
     parser.add_argument('--fin_num_layers', type=int, default=2, help='The number of LSTM layers in finding decoder ')
     parser.add_argument('--sen_enco_num_layers', type=int, default=3,
                         help='The number of convolutional layer in topic encoder')
-    parser.add_argument('--num_local_features', type=int, default=2048,
+    parser.add_argument('--num_local_features', type=int, default=512,
                         help='The channel number of local features for image encoder')
     parser.add_argument('--num_regions', type=int, default=49, help='The number of sub-regions for local features')
     parser.add_argument('--num_conv1d_out', type=int, default=1024,

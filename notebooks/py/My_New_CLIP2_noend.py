@@ -28,6 +28,8 @@ import matplotlib.pyplot as plt
 # %matplotlib inline
 # -
 
+pip uninstall metrics
+
 import torch
 import torchvision
 import torch.nn as nn

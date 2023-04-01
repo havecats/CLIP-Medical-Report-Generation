@@ -7,31 +7,39 @@ from torch.nn.utils.rnn import pad_packed_sequence
 from torch.nn import init
 import torch.nn.functional as F
 import random
+import clip
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
 class EncoderCNN(nn.Module):
     def __init__(self):
-        """Load the pretrained ResNet-152, and extract local and global features
-            加载预先训练好的ResNet-152，提取局部特征和全局特征
+        """Load the pretrained CLIP, and extract local and global features
+            加载预先训练好的CLIP，提取局部特征和全局特征
         """
         super(EncoderCNN, self).__init__()
 
         # load pretrained model from ImageNet
-        resnet = models.resnet152(pretrained=True)
-        local_features_mod = list(resnet.children())[:8]
-        global_features_mod = list(resnet.children())[8]
+        # resnet = models.resnet152(pretrained=True)
+        # local_features_mod = list(resnet.children())[:8]
+        # global_features_mod = list(resnet.children())[8]
+        #
+        # self.resnet_local = nn.Sequential(*local_features_mod)
+        # self.resnet_global = nn.Sequential(global_features_mod)
 
-        self.resnet_local = nn.Sequential(*local_features_mod)
-        self.resnet_global = nn.Sequential(global_features_mod)
+        self.clip_model, self.preprocess = clip.load("ViT-B/32", device=device, jit=False)
+
 
     def forward(self, frontal_image):
         """Extract feature vectors from input images"""
         # Does not train convolutional layers
+
+        # with torch.no_grad():
+        #     local_features = self.resnet_local(frontal_image)
+        #     global_features = self.resnet_global(local_features).squeeze()
+
         with torch.no_grad():
-            local_features = self.resnet_local(frontal_image)
-            global_features = self.resnet_global(local_features).squeeze()
+            global_features = self.clip_model.encode_image(frontal_image).float().squeeze()
 
         return global_features
 
