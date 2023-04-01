@@ -23,19 +23,16 @@ import numpy as np
 import cv2
 import seaborn as sns
 
-import torch
-import torchvision
-import torch.nn as nn
-import torch.nn.functional as F
+# import torch
+# import torchvision
+# import torch.nn as nn
+# import torch.nn.functional as F
+# from torchvision import transforms
 
-import matplotlib.pyplot as plt
-# %matplotlib inline
-
-device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
-print('device', device)
+# device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
+# print('device', device)
 
 # +
-#from wordcloud import WordCloud
 from collections import defaultdict
 from collections import Counter
 
@@ -52,18 +49,17 @@ import matplotlib.pyplot as plt
 matplotlib.rc("font",family='SimHei') # 中文字体
 plt.rcParams['axes.unicode_minus']=False  # 用来正常显示负号
 
-from torchvision import transforms
-
 import xml.etree.ElementTree as ET
 
 # 数据集文件夹路径
 directory = '../data/NLMCXR/ecgen-radiology'
 image_dir='../data/NLMCXR/NLMCXR_png/'
 
-# extracting data from the xml documents
+# extracting data from the xml documents从XML文档中提取数据
 img = []
 img_impression = []
 img_finding = []
+img_figure = []
 for filename in tqdm(os.listdir(directory)):
     if filename.endswith(".xml"):
         f = directory + '/' + filename
@@ -78,15 +74,29 @@ for filename in tqdm(os.listdir(directory)):
                                 for name in i:
                                     if name.get('Label') == 'FINDINGS':
                                         finding=name.text
+                                    elif name.get('Label') == 'IMPRESSION':
+                                        impression=name.text
                                         
         for p_image in root.findall('parentImage'):
             
             img.append(p_image.get('id'))
+            
+            for attr in p_image:
+                if attr.tag == 'figureId':
+                    figureId=attr.text
             img_finding.append(finding)
+            img_impression.append(impression)
+            img_figure.append(figureId)
+
+for attr in p_image:
+    if attr.tag == 'figureId':
+        print(attr.text)
 
 dataset = pd.DataFrame()
 dataset['Image_path'] = img
 dataset['Finding'] = img_finding
+dataset['Impression'] = img_impression
+dataset['Figure'] = img_figure
 dataset.head(10)
 
 print('Dataset Shape:', dataset.shape)
@@ -98,6 +108,7 @@ def absolute_path(x):
     return x
 dataset['Image_path'] = dataset['Image_path'].apply(lambda x : absolute_path(x)) # making the paths absolute
 
+dataset.to_csv('all_data.csv', index=False)
 dataset.head(10)
 
 
@@ -143,7 +154,7 @@ plt.subplot(121)
 plt.title('Height Plot')
 plt.ylabel('Heights')
 plt.xlabel('--Images--')
-sns.scatterplot(x=range(len(h)), y=h)#此处不添加xy会报错：scatterplot() takes from 0 to 1 positional arguments but 2 were given
+sns.scatterplot(x=range(len(h)), y=h)#此处不指定xy会报错：scatterplot() takes from 0 to 1 positional arguments but 2 were given
 plt.subplot(122)
 plt.title('Width Plot')
 plt.ylabel('Widths')
@@ -152,13 +163,11 @@ sns.scatterplot(x=range(len(w)), y=h)
 
 # Images have different heights and widths, they will be resized into a common shape
 
-# +
 print('Number of Images:', dataset['Image_path'].nunique())
-
+print('Number of Impression:', dataset['Impression'].nunique())
 # number of missing values
 print(dataset.isnull().sum())
 print("There are a total of  ",dataset.isnull().sum()[1]," rows where 'findings' column has no value")
-# -
 
 dataset = dataset.dropna(axis=0) # drop all missing value rows
 
@@ -172,14 +181,14 @@ plt.figure(figsize=(14,7))
 plt.subplot(131)
 img1 = cv2.imread(dataset['Image_path'].values[6])
 plt.imshow(img1)
-plt.title(dataset['Image_path'].values[6])
+plt.title(dataset['Image_path'].values[6].split('/')[-1:])
 plt.subplot(132)
 img2 = cv2.imread(dataset['Image_path'].values[7])
-plt.title(dataset['Image_path'].values[7])
+plt.title(dataset['Image_path'].values[7].split('/')[-1:])
 plt.imshow(img2)
 plt.subplot(133)
 img3 = cv2.imread(dataset['Image_path'].values[8])
-plt.title(dataset['Image_path'].values[8])
+plt.title(dataset['Image_path'].values[8].split('/')[-1:])
 plt.imshow(img3)
 
 dataset['Finding'].values[6], dataset['Finding'].values[7], dataset['Finding'].values[8]
@@ -187,19 +196,36 @@ dataset['Finding'].values[6], dataset['Finding'].values[7], dataset['Finding'].v
 # The dataset consists of multiple chest shots of the same person. The images of a person has the same file name except the last 4 digits. Therefore that can be taken as the person ID.
 # 该数据集由同一个人的多个胸部照片组成。一个人的图像具有相同的文件名，除了最后4位数字。因此，这可以作为人的ID。
 
+# +
 # This creates 2 dictionaries with keys as the person id and the number of images and findings for that person. 
+#这将创建两个字典，其中的键为person id，以及此人的图像和发现的数量。
 images = {}
 findings = {}
-for img, fin in dataset.values:
+impressions = {}
+# #figure字典 键值对为 img:figure
+# figures = {}
+for img, fin, impression, figureId in dataset.values:
+    
+#     figures[img]=figureId
+    
     a = img.split('-')
     a.pop(len(a)-1)
     a = '-'.join(e for e in a)
     if a not in images.keys():
         images[a] = 1
         findings[a] = fin
+        impressions[a] = impression
     else:
         images[a] += 1
         findings[a] = fin
+        impressions[a] = impression
+# -
+
+impressions
+
+img.split('-')
+
+a
 
 images[image_dir+'CXR1001_IM-0004'], findings[image_dir+'CXR1001_IM-0004']
 
@@ -263,6 +289,8 @@ img_per_person_train = combining_images(images_train)
 img_per_person_cv = combining_images(images_cv)
 img_per_person_test = combining_images(images_test)
 
+img_per_person_train
+
 len(img_per_person_train), len(images_train)
 
 img_per_person_train[image_dir+'CXR1001_IM-0004']
@@ -304,9 +332,13 @@ for k,v in images.items():
 #
 # Now, we have multiple chest scans to produce a single report. Some person_ids have 1, some have 2 and the highest is 4. So we can take pairs of those images as input. If it has only one image, then it can be replicated.
 
+# +
 def create_data(image_per_person):
     # new dataset
-    person_id, image1, image2, report = [],[],[],[]
+    person_id, image1, image2, report, = [],[],[],[]
+    impression = []
+
+#     impression,figure1,figure2=[], [],[],
     for pid, imgs in image_per_person.items():   #contains pid and the images associated with that pid
 
         if len(imgs) == 1:
@@ -314,6 +346,10 @@ def create_data(image_per_person):
             image2.append(imgs[0])
             person_id.append(pid)
             report.append(findings[pid])
+            
+            impression.append(impressions[pid])
+#             figure1.append(figures[imgs[0]])
+#             figure2.append(figures[imgs[0]])
         else:
             num = 0
             a = itertools.combinations(imgs, 2)
@@ -322,21 +358,36 @@ def create_data(image_per_person):
                 image2.append(i[1])
                 person_id.append(pid + '_' + str(num))
                 report.append(findings[pid])
+                
+                impression.append(impressions[pid])
+#                 figure1.append(figures[i[0]])
+#                 figure2.append(figures[i[1]])
+                
                 num += 1
+                
     data = pd.DataFrame()
     data['Person_id'] = person_id
     data['Image1'] = image1
     data['Image2'] = image2
     data['Report'] = report
+    data['Impression'] = impression
+#     data['Figure1'] = figure1
+#     data['Figure2'] = figure2
     
     return data
 
+
+# -
 
 train = create_data(img_per_person_train)
 test = create_data(img_per_person_test)
 cv = create_data(img_per_person_cv)
 
-train.head()
+train['Impression']
+
+x=''
+x=x+'s'+' '
+x
 
 
 # # Text Cleaning
@@ -462,9 +513,17 @@ def text_preprocessing(text):
     return new_text
 
 
+# +
 train['Report'] = text_preprocessing(train['Report'])
 test['Report'] = text_preprocessing(test['Report'])
 cv['Report'] = text_preprocessing(cv['Report'])
+
+train['Impression'] = text_preprocessing(train['Impression'])
+test['Impression'] = text_preprocessing(test['Impression'])
+cv['Impression'] = text_preprocessing(cv['Impression'])
+# -
+train.head(15)
+
 
 length = [len(e.split()) for e in train['Report'].values]# Number of words in each report
 max(length)

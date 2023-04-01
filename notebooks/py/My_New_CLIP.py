@@ -189,6 +189,12 @@ for i in range(epoch):
 
     print('[%d] loss: %.6f' % (i + 1, total_loss))
 torch.save(model, 'D:/coding/Jupyter/CLIP-Medical Report Generation/notebooks/model1.pkl')
+
+
+
+if hasattr(torch.cuda, 'empty_cache'):
+	torch.cuda.empty_cache()
+
 for i in range(epoch):
     print('----[%d] epoch---' % (i + 1))
     for batch in train_loader:
@@ -222,9 +228,3 @@ for i in range(epoch):
 
     print('[%d] loss: %.6f' % (i + 1, total_loss))
 torch.save(model, 'D:/coding/Jupyter/CLIP-Medical Report Generation/notebooks/model2.pkl')
-
-
-if hasattr(torch.cuda, 'empty_cache'):
-	torch.cuda.empty_cache()
-
-
