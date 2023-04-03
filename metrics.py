@@ -196,9 +196,11 @@ def _writer(txt, imp_dict, fin_dict):
 def generate_text_file(predicted_imps_lst, predicted_fins_lst, image_ids_lst, num_run, args):
     gt_imp_dic, pre_imp_dic, gt_fin_dic, pre_fin_dic, gt_imp_fin_dic, pre_imp_fin_dic = \
         _generate_imp_fin_dict(predicted_imps_lst, predicted_fins_lst, image_ids_lst, args)
+    # num_run为字符串“test”, 生成测试txt
     if isinstance(num_run, str):
         gt_txt = open("results/{}_gt_results_{}.txt".format(num_run + "run", time.strftime('%Y-%m-%d-%H-%M')), "+w")
         pre_txt = open("results/{}_pre_results_{}.txt".format(num_run + "run", time.strftime('%Y-%m-%d-%H-%M')), "+w")
+    # num_run为int 3 , 训练过程中生成
     else:
         gt_txt = open("results/{}_gt_results_{}.txt".format(str(num_run + 1) + "run", time.strftime('%Y-%m-%d-%H-%M')),
                       "+w")

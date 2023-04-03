@@ -157,6 +157,7 @@ def train_net(num_run, logger, args):
     torch.save(best_fin_decoder, os.path.join(
         args.model_path, '{}-finding_decoder-{}.ckpt'.format(num_run + 1, best_epoch + 1)))
     # generate the ground truth and predicted result
+    # 写入txt文件
     generate_text_file(best_pre_imps_lst, best_pre_fins_lst, best_img_id_lst, num_run, args)
     logger.info(
         "Values of metric for the best model are: \n"
@@ -196,8 +197,7 @@ def test_in_training(image_encoder, impression_decoder, finding_decoder, vocab, 
     finding_decoder_eval = Atten_Sen_Decoder(args.embed_size, args.hidden_size, vocab_size,
                                              args.fin_num_layers, args.sen_enco_num_layers,
                                              args.num_global_features, args.num_regions, args.num_conv1d_out,
-                                             args.teach_rate, args.max_single_sen_len, args.max_sen_num).eval().to(
-        device)
+                                             args.teach_rate, args.max_single_sen_len, args.max_sen_num).eval().to(device)
 
     image_encoder_eval.load_state_dict(image_encoder.state_dict())
     impression_decoder_eval.load_state_dict(impression_decoder.state_dict())

@@ -72,7 +72,7 @@ if __name__ == '__main__':
     parser.add_argument('--eval_json_dir', type=str, default='IUdata/IUdata_test.json', help='the path for json file')
     # model parameters
     parser.add_argument('--eval_batch_size', type=int, default=75, help='batch size for loading data')
-    parser.add_argument('--num_workers', type=int, default=2, help='multi-process data loading')
+    parser.add_argument('--num_workers', type=int, default=0, help='multi-process data loading')
     parser.add_argument('--max_impression_len', type=int, default=15,
                         help='The maximum length of the impression (one or several sentences)')
     parser.add_argument('--max_single_sen_len', type=int, default=15,
@@ -89,13 +89,14 @@ if __name__ == '__main__':
     parser.add_argument('--crop_size', type=int, default=224, help='The crop size of the X-ray image')
     parser.add_argument('--embed_size', type=int, default=512, help='The embed_size for vocabulary and images')
     parser.add_argument('--hidden_size', type=int, default=512, help='The number of hidden states in LSTM layers')
-    parser.add_argument('--num_global_features', type=int, default=2048,
+    # 将特征features由2048改为512
+    parser.add_argument('--num_global_features', type=int, default=512,
                         help='The number of global features for image encoder')
     parser.add_argument('--imp_layers_num', type=int, default=1, help='The number of LSTM layers in impression decoder')
     parser.add_argument('--fin_num_layers', type=int, default=2, help='The number of LSTM layers in finding decoder ')
     parser.add_argument('--sen_enco_num_layers', type=int, default=3,
                         help='The number of convolutional layer in topic encoder')
-    parser.add_argument('--num_local_features', type=int, default=2048,
+    parser.add_argument('--num_local_features', type=int, default=512,
                         help='The channel number of local features for image encoder')
     parser.add_argument('--num_regions', type=int, default=49, help='The number of sub-regions for local features')
     parser.add_argument('--num_conv1d_out', type=int, default=1024,
@@ -121,6 +122,7 @@ if __name__ == '__main__':
                 fin_de_path = os.path.join(args.model_path, path)
 
     """"Please only keep one combination of weights in the model_weights folder"""
+    """请在model_weights文件夹中只保留一个权重组合"""
     assert num_ckpt == 2 or num_ckpt == 3
 
     num_run = "test"

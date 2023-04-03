@@ -184,8 +184,7 @@ class Atten_Sen_Decoder(nn.Module):
 
             # packed ground truth for calculating the loss in trainer.py
             gt_fin_sen_packed = \
-                pack_padded_sequence(findings[:, num_sen, :], fin_sen_lengths, batch_first=True, enforce_sorted=False)[
-                    0]
+                pack_padded_sequence(findings[:, num_sen, :], fin_sen_lengths, batch_first=True, enforce_sorted=False)[0]
             if num_sen == 0:
                 gt_packed = gt_fin_sen_packed
             else:
@@ -247,7 +246,9 @@ class Atten_Sen_Decoder(nn.Module):
         return predicted_findings
 
     def _combine_vis_text(self, global_features, sen_vec):
-        """ Combine visual features with semantic sentence vector to get hidden and cell state"""
+        """ Combine visual features with semantic sentence vector to get hidden and cell state
+            将视觉特征与语义句子向量相结合，得到隐藏和细胞状态
+        """
         ini_input = torch.zeros(global_features.shape[0]).long().to(device)
         last_input = self.word_embed(ini_input).unsqueeze(1)
         con_features = torch.cat((global_features, sen_vec), dim=1)

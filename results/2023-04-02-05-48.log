@@ -1,0 +1,340 @@
+2023-04-02 05:48:20,977 =======================================================
+2023-04-02 05:48:20,977 Namespace(model_path='model_weights/', vocab_path='IUdata/IUdata_vocab_0threshold.pkl', image_dir='IUdata/NLMCXR_Frontal', json_dir='IUdata/IUdata_train.json', log_path='./results', resize_size=256, crop_size=224, batch_size=32, num_workers=0, embed_size=512, hidden_size=512, num_global_features=512, imp_layers_num=1, fin_num_layers=2, sen_enco_num_layers=3, num_local_features=512, num_regions=49, num_conv1d_out=1024, teach_rate=1.0, learning_rate=0.0001, epochs=50, sche_step_size=5, sche_decay=0.9, log_step=50, save_step=10, lambda_imp=0.5, lambda_fin=0.5, fix_image_encoder=True, dropout_rate=0.2, log_metrics_step=1, train_separately=True, imp_fin_only=True, eval_json_dir='IUdata/IUdata_test.json', eval_batch_size=75, max_impression_len=15, max_single_sen_len=15, max_sen_num=7, single_punc=True)
+2023-04-02 05:48:20,977 =======================================================
+2023-04-02 05:48:20,977 Start the 1th run of the same model
+2023-04-02 05:48:38,487 Epoch: 1/50	Step: [0/91]	Imp Loss: 7.6003	Imp Perplexity: 1998.8923	Fin Loss: 7.5800	Imp Perplexity: 1958.5681 
+2023-04-02 05:49:37,533 Epoch: 1/50	Step: [50/91]	Imp Loss: 4.2327	Imp Perplexity: 68.9023	Fin Loss: 4.4271	Imp Perplexity: 83.6919 
+2023-04-02 05:50:55,344 The model performance improved when epoch [1/50], BLEU4:0.0413
+2023-04-02 05:50:56,939 Epoch: 2/50	Step: [0/91]	Imp Loss: 3.6766	Imp Perplexity: 39.5118	Fin Loss: 3.8395	Imp Perplexity: 46.5024 
+2023-04-02 05:51:59,012 Epoch: 2/50	Step: [50/91]	Imp Loss: 3.1257	Imp Perplexity: 22.7759	Fin Loss: 3.8224	Imp Perplexity: 45.7158 
+2023-04-02 05:53:14,062 The model performance improved when epoch [2/50], BLEU4:0.078
+2023-04-02 05:53:15,641 Epoch: 3/50	Step: [0/91]	Imp Loss: 2.8290	Imp Perplexity: 16.9282	Fin Loss: 3.6898	Imp Perplexity: 40.0360 
+2023-04-02 05:54:15,997 Epoch: 3/50	Step: [50/91]	Imp Loss: 3.1070	Imp Perplexity: 22.3539	Fin Loss: 3.6799	Imp Perplexity: 39.6423 
+2023-04-02 05:55:31,620 The model performance improved when epoch [3/50], BLEU4:0.0789
+2023-04-02 05:55:33,184 Epoch: 4/50	Step: [0/91]	Imp Loss: 2.8526	Imp Perplexity: 17.3336	Fin Loss: 3.3910	Imp Perplexity: 29.6958 
+2023-04-02 05:56:34,325 Epoch: 4/50	Step: [50/91]	Imp Loss: 3.0129	Imp Perplexity: 20.3459	Fin Loss: 3.2742	Imp Perplexity: 26.4225 
+2023-04-02 05:57:50,595 The model performance improved when epoch [4/50], BLEU4:0.128
+2023-04-02 05:57:52,144 Epoch: 5/50	Step: [0/91]	Imp Loss: 3.1281	Imp Perplexity: 22.8315	Fin Loss: 3.4471	Imp Perplexity: 31.4089 
+2023-04-02 05:58:54,755 Epoch: 5/50	Step: [50/91]	Imp Loss: 2.9072	Imp Perplexity: 18.3051	Fin Loss: 2.9104	Imp Perplexity: 18.3643 
+2023-04-02 06:00:12,651 Epoch: 6/50	Step: [0/91]	Imp Loss: 2.9149	Imp Perplexity: 18.4463	Fin Loss: 2.9642	Imp Perplexity: 19.3796 
+2023-04-02 06:01:18,276 Epoch: 6/50	Step: [50/91]	Imp Loss: 2.9545	Imp Perplexity: 19.1929	Fin Loss: 2.9069	Imp Perplexity: 18.2991 
+2023-04-02 06:02:35,828 Epoch: 7/50	Step: [0/91]	Imp Loss: 3.1893	Imp Perplexity: 24.2705	Fin Loss: 2.8465	Imp Perplexity: 17.2277 
+2023-04-02 06:03:36,938 Epoch: 7/50	Step: [50/91]	Imp Loss: 2.3314	Imp Perplexity: 10.2925	Fin Loss: 2.6788	Imp Perplexity: 14.5676 
+2023-04-02 06:04:58,149 Epoch: 8/50	Step: [0/91]	Imp Loss: 3.3157	Imp Perplexity: 27.5428	Fin Loss: 2.9074	Imp Perplexity: 18.3091 
+2023-04-02 06:06:02,715 Epoch: 8/50	Step: [50/91]	Imp Loss: 2.8141	Imp Perplexity: 16.6776	Fin Loss: 2.6392	Imp Perplexity: 14.0015 
+2023-04-02 06:07:26,445 Epoch: 9/50	Step: [0/91]	Imp Loss: 3.0010	Imp Perplexity: 20.1063	Fin Loss: 2.8281	Imp Perplexity: 16.9132 
+2023-04-02 06:08:30,902 Epoch: 9/50	Step: [50/91]	Imp Loss: 2.5453	Imp Perplexity: 12.7471	Fin Loss: 2.5939	Imp Perplexity: 13.3814 
+2023-04-02 06:09:54,005 Epoch: 10/50	Step: [0/91]	Imp Loss: 3.0310	Imp Perplexity: 20.7173	Fin Loss: 2.6477	Imp Perplexity: 14.1211 
+2023-04-02 06:10:58,243 Epoch: 10/50	Step: [50/91]	Imp Loss: 2.4879	Imp Perplexity: 12.0359	Fin Loss: 2.4767	Imp Perplexity: 11.9015 
+2023-04-02 06:12:21,601 Epoch: 11/50	Step: [0/91]	Imp Loss: 2.4980	Imp Perplexity: 12.1575	Fin Loss: 2.6036	Imp Perplexity: 13.5122 
+2023-04-02 06:13:25,458 Epoch: 11/50	Step: [50/91]	Imp Loss: 2.7275	Imp Perplexity: 15.2949	Fin Loss: 2.5402	Imp Perplexity: 12.6822 
+2023-04-02 06:14:47,937 Epoch: 12/50	Step: [0/91]	Imp Loss: 2.5718	Imp Perplexity: 13.0899	Fin Loss: 2.4932	Imp Perplexity: 12.0997 
+2023-04-02 06:15:51,238 Epoch: 12/50	Step: [50/91]	Imp Loss: 2.7290	Imp Perplexity: 15.3182	Fin Loss: 2.6195	Imp Perplexity: 13.7286 
+2023-04-02 06:17:14,559 Epoch: 13/50	Step: [0/91]	Imp Loss: 2.5864	Imp Perplexity: 13.2813	Fin Loss: 2.3213	Imp Perplexity: 10.1887 
+2023-04-02 06:18:14,856 Epoch: 13/50	Step: [50/91]	Imp Loss: 2.5887	Imp Perplexity: 13.3118	Fin Loss: 2.6762	Imp Perplexity: 14.5294 
+2023-04-02 06:19:31,479 Epoch: 14/50	Step: [0/91]	Imp Loss: 2.8582	Imp Perplexity: 17.4307	Fin Loss: 2.4313	Imp Perplexity: 11.3742 
+2023-04-02 06:20:31,119 Epoch: 14/50	Step: [50/91]	Imp Loss: 2.7264	Imp Perplexity: 15.2782	Fin Loss: 2.4500	Imp Perplexity: 11.5882 
+2023-04-02 06:21:47,593 Epoch: 15/50	Step: [0/91]	Imp Loss: 2.6004	Imp Perplexity: 13.4695	Fin Loss: 2.5316	Imp Perplexity: 12.5741 
+2023-04-02 06:22:46,874 Epoch: 15/50	Step: [50/91]	Imp Loss: 1.9942	Imp Perplexity: 7.3461	Fin Loss: 2.4928	Imp Perplexity: 12.0954 
+2023-04-02 06:24:03,309 Epoch: 16/50	Step: [0/91]	Imp Loss: 2.8254	Imp Perplexity: 16.8669	Fin Loss: 2.3532	Imp Perplexity: 10.5193 
+2023-04-02 06:25:01,984 Epoch: 16/50	Step: [50/91]	Imp Loss: 2.5166	Imp Perplexity: 12.3870	Fin Loss: 2.0896	Imp Perplexity: 8.0815 
+2023-04-02 06:26:18,035 Epoch: 17/50	Step: [0/91]	Imp Loss: 2.1474	Imp Perplexity: 8.5624	Fin Loss: 2.2969	Imp Perplexity: 9.9430 
+2023-04-02 06:27:16,732 Epoch: 17/50	Step: [50/91]	Imp Loss: 2.4972	Imp Perplexity: 12.1485	Fin Loss: 2.2535	Imp Perplexity: 9.5212 
+2023-04-02 06:28:32,528 Epoch: 18/50	Step: [0/91]	Imp Loss: 2.4462	Imp Perplexity: 11.5447	Fin Loss: 2.3582	Imp Perplexity: 10.5715 
+2023-04-02 06:29:31,025 Epoch: 18/50	Step: [50/91]	Imp Loss: 2.7984	Imp Perplexity: 16.4175	Fin Loss: 2.4118	Imp Perplexity: 11.1543 
+2023-04-02 06:30:45,924 The model performance improved when epoch [18/50], BLEU4:0.1378
+2023-04-02 06:30:47,471 Epoch: 19/50	Step: [0/91]	Imp Loss: 2.3755	Imp Perplexity: 10.7568	Fin Loss: 2.2903	Imp Perplexity: 9.8780 
+2023-04-02 06:31:48,484 Epoch: 19/50	Step: [50/91]	Imp Loss: 2.4840	Imp Perplexity: 11.9887	Fin Loss: 2.1774	Imp Perplexity: 8.8232 
+2023-04-02 06:33:04,591 Epoch: 20/50	Step: [0/91]	Imp Loss: 2.6793	Imp Perplexity: 14.5752	Fin Loss: 2.3037	Imp Perplexity: 10.0111 
+2023-04-02 06:34:03,134 Epoch: 20/50	Step: [50/91]	Imp Loss: 2.2965	Imp Perplexity: 9.9394	Fin Loss: 2.2188	Imp Perplexity: 9.1959 
+2023-04-02 06:35:19,484 Epoch: 21/50	Step: [0/91]	Imp Loss: 2.4936	Imp Perplexity: 12.1050	Fin Loss: 2.3224	Imp Perplexity: 10.2003 
+2023-04-02 06:36:18,186 Epoch: 21/50	Step: [50/91]	Imp Loss: 2.4688	Imp Perplexity: 11.8087	Fin Loss: 2.2372	Imp Perplexity: 9.3668 
+2023-04-02 06:37:34,134 Epoch: 22/50	Step: [0/91]	Imp Loss: 2.1027	Imp Perplexity: 8.1881	Fin Loss: 1.9967	Imp Perplexity: 7.3647 
+2023-04-02 06:38:32,825 Epoch: 22/50	Step: [50/91]	Imp Loss: 2.2459	Imp Perplexity: 9.4491	Fin Loss: 2.2091	Imp Perplexity: 9.1073 
+2023-04-02 06:39:48,798 Epoch: 23/50	Step: [0/91]	Imp Loss: 2.6129	Imp Perplexity: 13.6392	Fin Loss: 2.2108	Imp Perplexity: 9.1232 
+2023-04-02 06:40:46,827 Epoch: 23/50	Step: [50/91]	Imp Loss: 2.4490	Imp Perplexity: 11.5769	Fin Loss: 2.2721	Imp Perplexity: 9.7000 
+2023-04-02 06:42:03,112 Epoch: 24/50	Step: [0/91]	Imp Loss: 2.7048	Imp Perplexity: 14.9514	Fin Loss: 2.2260	Imp Perplexity: 9.2625 
+2023-04-02 06:43:01,682 Epoch: 24/50	Step: [50/91]	Imp Loss: 2.3174	Imp Perplexity: 10.1492	Fin Loss: 2.0620	Imp Perplexity: 7.8615 
+2023-04-02 06:44:17,395 Epoch: 25/50	Step: [0/91]	Imp Loss: 2.2674	Imp Perplexity: 9.6544	Fin Loss: 2.0782	Imp Perplexity: 7.9898 
+2023-04-02 06:45:16,107 Epoch: 25/50	Step: [50/91]	Imp Loss: 2.4835	Imp Perplexity: 11.9836	Fin Loss: 2.1408	Imp Perplexity: 8.5062 
+2023-04-02 06:46:35,911 Epoch: 26/50	Step: [0/91]	Imp Loss: 2.3221	Imp Perplexity: 10.1971	Fin Loss: 2.0173	Imp Perplexity: 7.5182 
+2023-04-02 06:47:35,878 Epoch: 26/50	Step: [50/91]	Imp Loss: 2.1545	Imp Perplexity: 8.6234	Fin Loss: 2.0693	Imp Perplexity: 7.9193 
+2023-04-02 06:48:52,426 Epoch: 27/50	Step: [0/91]	Imp Loss: 2.6689	Imp Perplexity: 14.4237	Fin Loss: 2.2303	Imp Perplexity: 9.3022 
+2023-04-02 06:49:51,252 Epoch: 27/50	Step: [50/91]	Imp Loss: 2.4090	Imp Perplexity: 11.1233	Fin Loss: 2.1308	Imp Perplexity: 8.4216 
+2023-04-02 06:51:07,923 Epoch: 28/50	Step: [0/91]	Imp Loss: 2.1362	Imp Perplexity: 8.4671	Fin Loss: 2.0960	Imp Perplexity: 8.1339 
+2023-04-02 06:52:07,109 Epoch: 28/50	Step: [50/91]	Imp Loss: 2.3673	Imp Perplexity: 10.6683	Fin Loss: 2.2511	Imp Perplexity: 9.4984 
+2023-04-02 06:53:23,378 Epoch: 29/50	Step: [0/91]	Imp Loss: 2.5107	Imp Perplexity: 12.3138	Fin Loss: 2.1657	Imp Perplexity: 8.7205 
+2023-04-02 06:54:22,315 Epoch: 29/50	Step: [50/91]	Imp Loss: 2.1485	Imp Perplexity: 8.5719	Fin Loss: 1.9357	Imp Perplexity: 6.9291 
+2023-04-02 06:55:38,281 Epoch: 30/50	Step: [0/91]	Imp Loss: 2.1100	Imp Perplexity: 8.2486	Fin Loss: 2.1768	Imp Perplexity: 8.8183 
+2023-04-02 06:56:37,140 Epoch: 30/50	Step: [50/91]	Imp Loss: 2.5285	Imp Perplexity: 12.5341	Fin Loss: 2.0876	Imp Perplexity: 8.0653 
+2023-04-02 06:57:53,410 Epoch: 31/50	Step: [0/91]	Imp Loss: 2.1398	Imp Perplexity: 8.4979	Fin Loss: 1.9077	Imp Perplexity: 6.7373 
+2023-04-02 06:58:52,190 Epoch: 31/50	Step: [50/91]	Imp Loss: 2.4533	Imp Perplexity: 11.6265	Fin Loss: 2.0760	Imp Perplexity: 7.9727 
+2023-04-02 07:00:08,516 Epoch: 32/50	Step: [0/91]	Imp Loss: 2.1560	Imp Perplexity: 8.6368	Fin Loss: 1.9581	Imp Perplexity: 7.0861 
+2023-04-02 07:01:07,903 Epoch: 32/50	Step: [50/91]	Imp Loss: 2.3565	Imp Perplexity: 10.5542	Fin Loss: 1.9371	Imp Perplexity: 6.9386 
+2023-04-02 07:02:26,416 Epoch: 33/50	Step: [0/91]	Imp Loss: 2.1700	Imp Perplexity: 8.7583	Fin Loss: 1.9314	Imp Perplexity: 6.8991 
+2023-04-02 07:03:25,255 Epoch: 33/50	Step: [50/91]	Imp Loss: 2.2488	Imp Perplexity: 9.4768	Fin Loss: 1.8730	Imp Perplexity: 6.5081 
+2023-04-02 07:04:41,306 Epoch: 34/50	Step: [0/91]	Imp Loss: 2.0342	Imp Perplexity: 7.6458	Fin Loss: 1.8533	Imp Perplexity: 6.3811 
+2023-04-02 07:05:40,033 Epoch: 34/50	Step: [50/91]	Imp Loss: 2.1468	Imp Perplexity: 8.5573	Fin Loss: 2.0438	Imp Perplexity: 7.7197 
+2023-04-02 07:06:56,443 Epoch: 35/50	Step: [0/91]	Imp Loss: 2.1865	Imp Perplexity: 8.9043	Fin Loss: 1.8836	Imp Perplexity: 6.5773 
+2023-04-02 07:07:55,169 Epoch: 35/50	Step: [50/91]	Imp Loss: 2.0495	Imp Perplexity: 7.7641	Fin Loss: 1.9988	Imp Perplexity: 7.3799 
+2023-04-02 07:09:11,540 Epoch: 36/50	Step: [0/91]	Imp Loss: 2.1438	Imp Perplexity: 8.5319	Fin Loss: 2.0103	Imp Perplexity: 7.4656 
+2023-04-02 07:10:10,377 Epoch: 36/50	Step: [50/91]	Imp Loss: 2.2446	Imp Perplexity: 9.4363	Fin Loss: 2.0635	Imp Perplexity: 7.8734 
+2023-04-02 07:11:26,397 Epoch: 37/50	Step: [0/91]	Imp Loss: 2.3147	Imp Perplexity: 10.1224	Fin Loss: 2.0205	Imp Perplexity: 7.5422 
+2023-04-02 07:12:25,037 Epoch: 37/50	Step: [50/91]	Imp Loss: 2.3649	Imp Perplexity: 10.6430	Fin Loss: 1.9379	Imp Perplexity: 6.9442 
+2023-04-02 07:13:41,462 Epoch: 38/50	Step: [0/91]	Imp Loss: 2.0232	Imp Perplexity: 7.5627	Fin Loss: 1.7603	Imp Perplexity: 5.8140 
+2023-04-02 07:14:39,830 Epoch: 38/50	Step: [50/91]	Imp Loss: 2.2164	Imp Perplexity: 9.1740	Fin Loss: 1.8272	Imp Perplexity: 6.2163 
+2023-04-02 07:15:55,923 Epoch: 39/50	Step: [0/91]	Imp Loss: 2.1645	Imp Perplexity: 8.7101	Fin Loss: 1.9574	Imp Perplexity: 7.0807 
+2023-04-02 07:16:56,625 Epoch: 39/50	Step: [50/91]	Imp Loss: 1.9898	Imp Perplexity: 7.3140	Fin Loss: 1.7373	Imp Perplexity: 5.6821 
+2023-04-02 07:18:12,635 Epoch: 40/50	Step: [0/91]	Imp Loss: 1.9003	Imp Perplexity: 6.6877	Fin Loss: 1.7729	Imp Perplexity: 5.8879 
+2023-04-02 07:19:10,931 Epoch: 40/50	Step: [50/91]	Imp Loss: 2.0189	Imp Perplexity: 7.5303	Fin Loss: 1.9313	Imp Perplexity: 6.8987 
+2023-04-02 07:20:26,678 Epoch: 41/50	Step: [0/91]	Imp Loss: 2.0164	Imp Perplexity: 7.5111	Fin Loss: 1.7593	Imp Perplexity: 5.8084 
+2023-04-02 07:21:25,396 Epoch: 41/50	Step: [50/91]	Imp Loss: 2.4672	Imp Perplexity: 11.7899	Fin Loss: 1.9338	Imp Perplexity: 6.9160 
+2023-04-02 07:22:41,540 Epoch: 42/50	Step: [0/91]	Imp Loss: 2.1458	Imp Perplexity: 8.5489	Fin Loss: 1.9329	Imp Perplexity: 6.9097 
+2023-04-02 07:23:39,882 Epoch: 42/50	Step: [50/91]	Imp Loss: 2.0526	Imp Perplexity: 7.7884	Fin Loss: 1.8266	Imp Perplexity: 6.2127 
+2023-04-02 07:24:55,617 Epoch: 43/50	Step: [0/91]	Imp Loss: 2.0902	Imp Perplexity: 8.0868	Fin Loss: 1.9259	Imp Perplexity: 6.8613 
+2023-04-02 07:25:54,207 Epoch: 43/50	Step: [50/91]	Imp Loss: 2.0994	Imp Perplexity: 8.1615	Fin Loss: 1.8957	Imp Perplexity: 6.6570 
+2023-04-02 07:27:09,315 Epoch: 44/50	Step: [0/91]	Imp Loss: 1.9788	Imp Perplexity: 7.2337	Fin Loss: 1.7719	Imp Perplexity: 5.8823 
+2023-04-02 07:28:07,687 Epoch: 44/50	Step: [50/91]	Imp Loss: 2.1628	Imp Perplexity: 8.6955	Fin Loss: 1.7069	Imp Perplexity: 5.5119 
+2023-04-02 07:29:23,628 Epoch: 45/50	Step: [0/91]	Imp Loss: 2.1072	Imp Perplexity: 8.2251	Fin Loss: 1.8336	Imp Perplexity: 6.2564 
+2023-04-02 07:30:22,049 Epoch: 45/50	Step: [50/91]	Imp Loss: 2.1744	Imp Perplexity: 8.7968	Fin Loss: 1.7969	Imp Perplexity: 6.0307 
+2023-04-02 07:31:42,354 Epoch: 46/50	Step: [0/91]	Imp Loss: 2.1504	Imp Perplexity: 8.5881	Fin Loss: 1.8378	Imp Perplexity: 6.2826 
+2023-04-02 07:32:40,611 Epoch: 46/50	Step: [50/91]	Imp Loss: 1.7128	Imp Perplexity: 5.5443	Fin Loss: 1.7184	Imp Perplexity: 5.5758 
+2023-04-02 07:33:55,818 Epoch: 47/50	Step: [0/91]	Imp Loss: 2.2870	Imp Perplexity: 9.8451	Fin Loss: 1.8546	Imp Perplexity: 6.3893 
+2023-04-02 07:34:54,282 Epoch: 47/50	Step: [50/91]	Imp Loss: 2.0453	Imp Perplexity: 7.7318	Fin Loss: 1.8594	Imp Perplexity: 6.4196 
+2023-04-02 07:36:10,530 Epoch: 48/50	Step: [0/91]	Imp Loss: 2.2111	Imp Perplexity: 9.1261	Fin Loss: 1.7616	Imp Perplexity: 5.8219 
+2023-04-02 07:37:09,325 Epoch: 48/50	Step: [50/91]	Imp Loss: 2.3999	Imp Perplexity: 11.0225	Fin Loss: 1.7701	Imp Perplexity: 5.8712 
+2023-04-02 07:38:25,615 Epoch: 49/50	Step: [0/91]	Imp Loss: 2.4223	Imp Perplexity: 11.2715	Fin Loss: 1.8027	Imp Perplexity: 6.0660 
+2023-04-02 07:39:23,972 Epoch: 49/50	Step: [50/91]	Imp Loss: 2.1655	Imp Perplexity: 8.7186	Fin Loss: 1.7927	Imp Perplexity: 6.0054 
+2023-04-02 07:40:39,799 Epoch: 50/50	Step: [0/91]	Imp Loss: 2.0714	Imp Perplexity: 7.9358	Fin Loss: 1.6253	Imp Perplexity: 5.0801 
+2023-04-02 07:41:38,211 Epoch: 50/50	Step: [50/91]	Imp Loss: 2.1875	Imp Perplexity: 8.9128	Fin Loss: 1.7420	Imp Perplexity: 5.7090 
+2023-04-02 07:42:53,098 Values of metric for the best model are: 
+ BLEU:[0.391, 0.2713, 0.1915, 0.1378], METEOR:0.1752, ROUGE:0.3637, Cider:0.2918
+2023-04-02 07:42:53,098 Save the best model weights when epoch [18/50], BLEU4:0.1378
+2023-04-02 07:42:53,098 =======================================================
+2023-04-02 07:42:53,161 Start the 2th run of the same model
+2023-04-02 07:43:02,669 Epoch: 1/50	Step: [0/91]	Imp Loss: 7.5826	Imp Perplexity: 1963.8191	Fin Loss: 7.5964	Imp Perplexity: 1990.9209 
+2023-04-02 07:44:01,400 Epoch: 1/50	Step: [50/91]	Imp Loss: 4.2906	Imp Perplexity: 73.0136	Fin Loss: 4.2983	Imp Perplexity: 73.5768 
+2023-04-02 07:45:15,875 The model performance improved when epoch [1/50], BLEU4:0.0408
+2023-04-02 07:45:17,563 Epoch: 2/50	Step: [0/91]	Imp Loss: 3.4900	Imp Perplexity: 32.7862	Fin Loss: 4.1425	Imp Perplexity: 62.9613 
+2023-04-02 07:46:18,060 Epoch: 2/50	Step: [50/91]	Imp Loss: 3.3846	Imp Perplexity: 29.5074	Fin Loss: 4.0926	Imp Perplexity: 59.8982 
+2023-04-02 07:47:33,184 The model performance improved when epoch [2/50], BLEU4:0.0608
+2023-04-02 07:47:34,845 Epoch: 3/50	Step: [0/91]	Imp Loss: 3.0154	Imp Perplexity: 20.3963	Fin Loss: 3.7113	Imp Perplexity: 40.9079 
+2023-04-02 07:48:33,525 Epoch: 3/50	Step: [50/91]	Imp Loss: 3.2937	Imp Perplexity: 26.9435	Fin Loss: 3.8496	Imp Perplexity: 46.9736 
+2023-04-02 07:49:47,639 The model performance improved when epoch [3/50], BLEU4:0.0841
+2023-04-02 07:49:49,344 Epoch: 4/50	Step: [0/91]	Imp Loss: 2.5622	Imp Perplexity: 12.9638	Fin Loss: 3.2761	Imp Perplexity: 26.4727 
+2023-04-02 07:50:47,952 Epoch: 4/50	Step: [50/91]	Imp Loss: 3.0279	Imp Perplexity: 20.6528	Fin Loss: 3.1169	Imp Perplexity: 22.5772 
+2023-04-02 07:52:04,842 Epoch: 5/50	Step: [0/91]	Imp Loss: 3.0424	Imp Perplexity: 20.9547	Fin Loss: 3.2672	Imp Perplexity: 26.2390 
+2023-04-02 07:53:03,404 Epoch: 5/50	Step: [50/91]	Imp Loss: 2.8704	Imp Perplexity: 17.6433	Fin Loss: 3.0584	Imp Perplexity: 21.2944 
+2023-04-02 07:54:18,453 The model performance improved when epoch [5/50], BLEU4:0.0958
+2023-04-02 07:54:19,970 Epoch: 6/50	Step: [0/91]	Imp Loss: 3.0077	Imp Perplexity: 20.2411	Fin Loss: 3.0456	Imp Perplexity: 21.0216 
+2023-04-02 07:55:18,234 Epoch: 6/50	Step: [50/91]	Imp Loss: 2.8286	Imp Perplexity: 16.9221	Fin Loss: 2.9704	Imp Perplexity: 19.4989 
+2023-04-02 07:56:34,029 Epoch: 7/50	Step: [0/91]	Imp Loss: 2.6444	Imp Perplexity: 14.0751	Fin Loss: 2.9281	Imp Perplexity: 18.6918 
+2023-04-02 07:57:32,292 Epoch: 7/50	Step: [50/91]	Imp Loss: 2.5370	Imp Perplexity: 12.6418	Fin Loss: 2.9542	Imp Perplexity: 19.1856 
+2023-04-02 07:58:48,735 Epoch: 8/50	Step: [0/91]	Imp Loss: 2.4202	Imp Perplexity: 11.2486	Fin Loss: 2.8954	Imp Perplexity: 18.0916 
+2023-04-02 07:59:47,076 Epoch: 8/50	Step: [50/91]	Imp Loss: 3.1001	Imp Perplexity: 22.2005	Fin Loss: 2.7434	Imp Perplexity: 15.5390 
+2023-04-02 08:01:01,401 The model performance improved when epoch [8/50], BLEU4:0.1231
+2023-04-02 08:01:02,996 Epoch: 9/50	Step: [0/91]	Imp Loss: 2.5553	Imp Perplexity: 12.8754	Fin Loss: 2.6400	Imp Perplexity: 14.0132 
+2023-04-02 08:02:05,060 Epoch: 9/50	Step: [50/91]	Imp Loss: 2.3241	Imp Perplexity: 10.2179	Fin Loss: 2.6959	Imp Perplexity: 14.8191 
+2023-04-02 08:03:21,091 Epoch: 10/50	Step: [0/91]	Imp Loss: 2.7094	Imp Perplexity: 15.0208	Fin Loss: 2.7118	Imp Perplexity: 15.0569 
+2023-04-02 08:04:19,232 Epoch: 10/50	Step: [50/91]	Imp Loss: 2.7344	Imp Perplexity: 15.3999	Fin Loss: 2.5431	Imp Perplexity: 12.7185 
+2023-04-02 08:05:35,201 Epoch: 11/50	Step: [0/91]	Imp Loss: 2.4809	Imp Perplexity: 11.9523	Fin Loss: 2.5048	Imp Perplexity: 12.2409 
+2023-04-02 08:06:33,559 Epoch: 11/50	Step: [50/91]	Imp Loss: 2.7672	Imp Perplexity: 15.9139	Fin Loss: 2.4735	Imp Perplexity: 11.8637 
+2023-04-02 08:07:49,656 Epoch: 12/50	Step: [0/91]	Imp Loss: 3.1978	Imp Perplexity: 24.4792	Fin Loss: 2.6233	Imp Perplexity: 13.7816 
+2023-04-02 08:08:48,016 Epoch: 12/50	Step: [50/91]	Imp Loss: 2.6995	Imp Perplexity: 14.8730	Fin Loss: 2.4587	Imp Perplexity: 11.6901 
+2023-04-02 08:10:02,642 The model performance improved when epoch [12/50], BLEU4:0.1458
+2023-04-02 08:10:04,316 Epoch: 13/50	Step: [0/91]	Imp Loss: 2.3041	Imp Perplexity: 10.0149	Fin Loss: 2.7435	Imp Perplexity: 15.5408 
+2023-04-02 08:11:02,433 Epoch: 13/50	Step: [50/91]	Imp Loss: 2.9273	Imp Perplexity: 18.6769	Fin Loss: 2.4468	Imp Perplexity: 11.5514 
+2023-04-02 08:12:17,812 Epoch: 14/50	Step: [0/91]	Imp Loss: 2.3668	Imp Perplexity: 10.6629	Fin Loss: 2.3523	Imp Perplexity: 10.5098 
+2023-04-02 08:13:16,122 Epoch: 14/50	Step: [50/91]	Imp Loss: 2.7859	Imp Perplexity: 16.2143	Fin Loss: 2.4067	Imp Perplexity: 11.0973 
+2023-04-02 08:14:32,137 Epoch: 15/50	Step: [0/91]	Imp Loss: 2.5943	Imp Perplexity: 13.3868	Fin Loss: 2.5041	Imp Perplexity: 12.2323 
+2023-04-02 08:15:30,776 Epoch: 15/50	Step: [50/91]	Imp Loss: 2.6146	Imp Perplexity: 13.6619	Fin Loss: 2.2047	Imp Perplexity: 9.0671 
+2023-04-02 08:16:50,423 Epoch: 16/50	Step: [0/91]	Imp Loss: 2.1420	Imp Perplexity: 8.5169	Fin Loss: 2.2473	Imp Perplexity: 9.4618 
+2023-04-02 08:17:48,884 Epoch: 16/50	Step: [50/91]	Imp Loss: 2.3092	Imp Perplexity: 10.0659	Fin Loss: 2.3894	Imp Perplexity: 10.9067 
+2023-04-02 08:19:03,710 Epoch: 17/50	Step: [0/91]	Imp Loss: 2.3396	Imp Perplexity: 10.3769	Fin Loss: 2.4581	Imp Perplexity: 11.6828 
+2023-04-02 08:20:01,888 Epoch: 17/50	Step: [50/91]	Imp Loss: 2.1662	Imp Perplexity: 8.7251	Fin Loss: 2.1345	Imp Perplexity: 8.4531 
+2023-04-02 08:21:17,564 Epoch: 18/50	Step: [0/91]	Imp Loss: 2.4316	Imp Perplexity: 11.3774	Fin Loss: 2.3467	Imp Perplexity: 10.4510 
+2023-04-02 08:22:16,263 Epoch: 18/50	Step: [50/91]	Imp Loss: 2.5192	Imp Perplexity: 12.4186	Fin Loss: 2.2334	Imp Perplexity: 9.3319 
+2023-04-02 08:23:32,239 Epoch: 19/50	Step: [0/91]	Imp Loss: 2.6022	Imp Perplexity: 13.4930	Fin Loss: 2.3581	Imp Perplexity: 10.5713 
+2023-04-02 08:24:30,556 Epoch: 19/50	Step: [50/91]	Imp Loss: 2.4027	Imp Perplexity: 11.0528	Fin Loss: 2.0903	Imp Perplexity: 8.0873 
+2023-04-02 08:25:46,101 Epoch: 20/50	Step: [0/91]	Imp Loss: 2.2123	Imp Perplexity: 9.1364	Fin Loss: 2.2623	Imp Perplexity: 9.6048 
+2023-04-02 08:26:44,764 Epoch: 20/50	Step: [50/91]	Imp Loss: 2.2582	Imp Perplexity: 9.5655	Fin Loss: 2.2876	Imp Perplexity: 9.8517 
+2023-04-02 08:28:00,666 Epoch: 21/50	Step: [0/91]	Imp Loss: 2.4624	Imp Perplexity: 11.7325	Fin Loss: 2.2515	Imp Perplexity: 9.5023 
+2023-04-02 08:28:58,947 Epoch: 21/50	Step: [50/91]	Imp Loss: 2.2780	Imp Perplexity: 9.7575	Fin Loss: 2.3181	Imp Perplexity: 10.1562 
+2023-04-02 08:30:14,716 Epoch: 22/50	Step: [0/91]	Imp Loss: 2.4907	Imp Perplexity: 12.0693	Fin Loss: 2.1639	Imp Perplexity: 8.7047 
+2023-04-02 08:31:14,152 Epoch: 22/50	Step: [50/91]	Imp Loss: 2.4680	Imp Perplexity: 11.7994	Fin Loss: 2.2536	Imp Perplexity: 9.5220 
+2023-04-02 08:32:31,620 Epoch: 23/50	Step: [0/91]	Imp Loss: 2.4573	Imp Perplexity: 11.6732	Fin Loss: 2.1419	Imp Perplexity: 8.5153 
+2023-04-02 08:33:29,869 Epoch: 23/50	Step: [50/91]	Imp Loss: 2.4814	Imp Perplexity: 11.9575	Fin Loss: 2.1532	Imp Perplexity: 8.6124 
+2023-04-02 08:34:45,044 Epoch: 24/50	Step: [0/91]	Imp Loss: 2.3864	Imp Perplexity: 10.8748	Fin Loss: 2.1710	Imp Perplexity: 8.7674 
+2023-04-02 08:35:43,402 Epoch: 24/50	Step: [50/91]	Imp Loss: 2.4962	Imp Perplexity: 12.1363	Fin Loss: 1.9626	Imp Perplexity: 7.1180 
+2023-04-02 08:36:59,369 Epoch: 25/50	Step: [0/91]	Imp Loss: 2.4203	Imp Perplexity: 11.2493	Fin Loss: 1.7936	Imp Perplexity: 6.0112 
+2023-04-02 08:37:58,132 Epoch: 25/50	Step: [50/91]	Imp Loss: 2.6182	Imp Perplexity: 13.7116	Fin Loss: 2.1905	Imp Perplexity: 8.9399 
+2023-04-02 08:39:13,887 Epoch: 26/50	Step: [0/91]	Imp Loss: 2.2473	Imp Perplexity: 9.4622	Fin Loss: 1.9492	Imp Perplexity: 7.0228 
+2023-04-02 08:40:12,479 Epoch: 26/50	Step: [50/91]	Imp Loss: 2.3530	Imp Perplexity: 10.5170	Fin Loss: 2.3398	Imp Perplexity: 10.3789 
+2023-04-02 08:41:28,352 Epoch: 27/50	Step: [0/91]	Imp Loss: 2.4893	Imp Perplexity: 12.0524	Fin Loss: 2.0864	Imp Perplexity: 8.0558 
+2023-04-02 08:42:26,646 Epoch: 27/50	Step: [50/91]	Imp Loss: 2.0854	Imp Perplexity: 8.0477	Fin Loss: 1.9886	Imp Perplexity: 7.3051 
+2023-04-02 08:43:42,291 Epoch: 28/50	Step: [0/91]	Imp Loss: 2.2556	Imp Perplexity: 9.5414	Fin Loss: 2.0200	Imp Perplexity: 7.5385 
+2023-04-02 08:44:40,423 Epoch: 28/50	Step: [50/91]	Imp Loss: 2.2656	Imp Perplexity: 9.6366	Fin Loss: 2.0186	Imp Perplexity: 7.5280 
+2023-04-02 08:45:56,319 Epoch: 29/50	Step: [0/91]	Imp Loss: 2.4079	Imp Perplexity: 11.1104	Fin Loss: 1.9788	Imp Perplexity: 7.2340 
+2023-04-02 08:46:57,781 Epoch: 29/50	Step: [50/91]	Imp Loss: 2.5030	Imp Perplexity: 12.2186	Fin Loss: 2.0537	Imp Perplexity: 7.7969 
+2023-04-02 08:48:14,261 Epoch: 30/50	Step: [0/91]	Imp Loss: 2.2835	Imp Perplexity: 9.8112	Fin Loss: 1.9485	Imp Perplexity: 7.0185 
+2023-04-02 08:49:13,120 Epoch: 30/50	Step: [50/91]	Imp Loss: 2.1330	Imp Perplexity: 8.4400	Fin Loss: 2.0380	Imp Perplexity: 7.6754 
+2023-04-02 08:50:29,744 Epoch: 31/50	Step: [0/91]	Imp Loss: 2.2720	Imp Perplexity: 9.6990	Fin Loss: 2.1718	Imp Perplexity: 8.7737 
+2023-04-02 08:51:28,273 Epoch: 31/50	Step: [50/91]	Imp Loss: 1.9866	Imp Perplexity: 7.2906	Fin Loss: 2.0266	Imp Perplexity: 7.5882 
+2023-04-02 08:52:43,998 Epoch: 32/50	Step: [0/91]	Imp Loss: 2.0334	Imp Perplexity: 7.6404	Fin Loss: 2.0810	Imp Perplexity: 8.0124 
+2023-04-02 08:53:42,291 Epoch: 32/50	Step: [50/91]	Imp Loss: 2.1733	Imp Perplexity: 8.7869	Fin Loss: 1.9708	Imp Perplexity: 7.1767 
+2023-04-02 08:54:58,492 Epoch: 33/50	Step: [0/91]	Imp Loss: 2.0090	Imp Perplexity: 7.4559	Fin Loss: 2.0461	Imp Perplexity: 7.7377 
+2023-04-02 08:55:56,897 Epoch: 33/50	Step: [50/91]	Imp Loss: 2.3202	Imp Perplexity: 10.1773	Fin Loss: 1.9344	Imp Perplexity: 6.9198 
+2023-04-02 08:57:13,182 Epoch: 34/50	Step: [0/91]	Imp Loss: 2.1589	Imp Perplexity: 8.6618	Fin Loss: 1.9806	Imp Perplexity: 7.2470 
+2023-04-02 08:58:11,667 Epoch: 34/50	Step: [50/91]	Imp Loss: 2.1427	Imp Perplexity: 8.5223	Fin Loss: 1.9259	Imp Perplexity: 6.8612 
+2023-04-02 08:59:27,892 Epoch: 35/50	Step: [0/91]	Imp Loss: 2.7680	Imp Perplexity: 15.9264	Fin Loss: 2.1794	Imp Perplexity: 8.8413 
+2023-04-02 09:00:26,303 Epoch: 35/50	Step: [50/91]	Imp Loss: 2.6173	Imp Perplexity: 13.6990	Fin Loss: 1.9509	Imp Perplexity: 7.0347 
+2023-04-02 09:01:45,955 Epoch: 36/50	Step: [0/91]	Imp Loss: 2.4450	Imp Perplexity: 11.5304	Fin Loss: 2.1315	Imp Perplexity: 8.4277 
+2023-04-02 09:02:44,449 Epoch: 36/50	Step: [50/91]	Imp Loss: 1.8373	Imp Perplexity: 6.2795	Fin Loss: 1.8626	Imp Perplexity: 6.4406 
+2023-04-02 09:04:00,212 Epoch: 37/50	Step: [0/91]	Imp Loss: 2.1752	Imp Perplexity: 8.8039	Fin Loss: 1.9337	Imp Perplexity: 6.9150 
+2023-04-02 09:04:58,727 Epoch: 37/50	Step: [50/91]	Imp Loss: 2.2320	Imp Perplexity: 9.3182	Fin Loss: 1.6372	Imp Perplexity: 5.1408 
+2023-04-02 09:06:15,114 Epoch: 38/50	Step: [0/91]	Imp Loss: 2.0208	Imp Perplexity: 7.5446	Fin Loss: 1.8218	Imp Perplexity: 6.1830 
+2023-04-02 09:07:13,682 Epoch: 38/50	Step: [50/91]	Imp Loss: 1.9805	Imp Perplexity: 7.2464	Fin Loss: 1.8381	Imp Perplexity: 6.2843 
+2023-04-02 09:08:29,640 Epoch: 39/50	Step: [0/91]	Imp Loss: 2.3268	Imp Perplexity: 10.2449	Fin Loss: 2.0169	Imp Perplexity: 7.5154 
+2023-04-02 09:09:28,054 Epoch: 39/50	Step: [50/91]	Imp Loss: 2.1605	Imp Perplexity: 8.6758	Fin Loss: 2.0110	Imp Perplexity: 7.4707 
+2023-04-02 09:10:43,698 Epoch: 40/50	Step: [0/91]	Imp Loss: 1.9233	Imp Perplexity: 6.8435	Fin Loss: 1.7956	Imp Perplexity: 6.0232 
+2023-04-02 09:11:42,198 Epoch: 40/50	Step: [50/91]	Imp Loss: 2.1785	Imp Perplexity: 8.8328	Fin Loss: 1.7869	Imp Perplexity: 5.9712 
+2023-04-02 09:12:58,237 Epoch: 41/50	Step: [0/91]	Imp Loss: 2.2178	Imp Perplexity: 9.1873	Fin Loss: 2.0093	Imp Perplexity: 7.4584 
+2023-04-02 09:13:56,699 Epoch: 41/50	Step: [50/91]	Imp Loss: 2.1482	Imp Perplexity: 8.5693	Fin Loss: 1.8838	Imp Perplexity: 6.5782 
+2023-04-02 09:15:13,089 Epoch: 42/50	Step: [0/91]	Imp Loss: 1.9753	Imp Perplexity: 7.2086	Fin Loss: 1.6880	Imp Perplexity: 5.4088 
+2023-04-02 09:16:12,400 Epoch: 42/50	Step: [50/91]	Imp Loss: 2.1002	Imp Perplexity: 8.1682	Fin Loss: 1.8941	Imp Perplexity: 6.6467 
+2023-04-02 09:17:29,994 Epoch: 43/50	Step: [0/91]	Imp Loss: 2.0517	Imp Perplexity: 7.7812	Fin Loss: 1.8788	Imp Perplexity: 6.5459 
+2023-04-02 09:18:28,538 Epoch: 43/50	Step: [50/91]	Imp Loss: 2.0720	Imp Perplexity: 7.9404	Fin Loss: 1.8563	Imp Perplexity: 6.4001 
+2023-04-02 09:19:43,871 Epoch: 44/50	Step: [0/91]	Imp Loss: 1.8260	Imp Perplexity: 6.2090	Fin Loss: 1.6119	Imp Perplexity: 5.0123 
+2023-04-02 09:20:41,885 Epoch: 44/50	Step: [50/91]	Imp Loss: 2.1960	Imp Perplexity: 8.9889	Fin Loss: 1.7305	Imp Perplexity: 5.6435 
+2023-04-02 09:21:58,386 Epoch: 45/50	Step: [0/91]	Imp Loss: 2.0796	Imp Perplexity: 8.0012	Fin Loss: 1.8833	Imp Perplexity: 6.5749 
+2023-04-02 09:22:56,960 Epoch: 45/50	Step: [50/91]	Imp Loss: 2.3131	Imp Perplexity: 10.1054	Fin Loss: 1.8906	Imp Perplexity: 6.6231 
+2023-04-02 09:24:13,480 Epoch: 46/50	Step: [0/91]	Imp Loss: 2.4418	Imp Perplexity: 11.4932	Fin Loss: 1.8766	Imp Perplexity: 6.5315 
+2023-04-02 09:25:12,010 Epoch: 46/50	Step: [50/91]	Imp Loss: 2.2368	Imp Perplexity: 9.3632	Fin Loss: 1.7991	Imp Perplexity: 6.0440 
+2023-04-02 09:26:28,544 Epoch: 47/50	Step: [0/91]	Imp Loss: 2.3530	Imp Perplexity: 10.5170	Fin Loss: 1.9378	Imp Perplexity: 6.9435 
+2023-04-02 09:27:27,007 Epoch: 47/50	Step: [50/91]	Imp Loss: 1.9245	Imp Perplexity: 6.8517	Fin Loss: 1.8233	Imp Perplexity: 6.1925 
+2023-04-02 09:28:42,682 Epoch: 48/50	Step: [0/91]	Imp Loss: 2.1089	Imp Perplexity: 8.2392	Fin Loss: 1.7003	Imp Perplexity: 5.4757 
+2023-04-02 09:29:41,056 Epoch: 48/50	Step: [50/91]	Imp Loss: 2.0412	Imp Perplexity: 7.7000	Fin Loss: 1.5781	Imp Perplexity: 4.8459 
+2023-04-02 09:30:56,917 Epoch: 49/50	Step: [0/91]	Imp Loss: 1.9737	Imp Perplexity: 7.1975	Fin Loss: 1.8036	Imp Perplexity: 6.0716 
+2023-04-02 09:31:57,569 Epoch: 49/50	Step: [50/91]	Imp Loss: 1.9867	Imp Perplexity: 7.2917	Fin Loss: 1.7955	Imp Perplexity: 6.0222 
+2023-04-02 09:33:13,651 Epoch: 50/50	Step: [0/91]	Imp Loss: 1.9341	Imp Perplexity: 6.9175	Fin Loss: 1.8461	Imp Perplexity: 6.3352 
+2023-04-02 09:34:12,072 Epoch: 50/50	Step: [50/91]	Imp Loss: 1.8951	Imp Perplexity: 6.6535	Fin Loss: 1.8403	Imp Perplexity: 6.2982 
+2023-04-02 09:35:27,663 Values of metric for the best model are: 
+ BLEU:[0.4389, 0.29, 0.2037, 0.1458], METEOR:0.1774, ROUGE:0.3543, Cider:0.1968
+2023-04-02 09:35:27,663 Save the best model weights when epoch [12/50], BLEU4:0.1458
+2023-04-02 09:35:27,663 =======================================================
+2023-04-02 09:35:27,663 Start the 3th run of the same model
+2023-04-02 09:35:37,015 Epoch: 1/50	Step: [0/91]	Imp Loss: 7.6169	Imp Perplexity: 2032.2940	Fin Loss: 7.5774	Imp Perplexity: 1953.5454 
+2023-04-02 09:36:35,107 Epoch: 1/50	Step: [50/91]	Imp Loss: 4.1367	Imp Perplexity: 62.5943	Fin Loss: 4.4309	Imp Perplexity: 84.0028 
+2023-04-02 09:37:48,671 The model performance improved when epoch [1/50], BLEU4:0.0413
+2023-04-02 09:37:50,250 Epoch: 2/50	Step: [0/91]	Imp Loss: 3.5030	Imp Perplexity: 33.2146	Fin Loss: 3.9865	Imp Perplexity: 53.8678 
+2023-04-02 09:38:48,609 Epoch: 2/50	Step: [50/91]	Imp Loss: 3.2315	Imp Perplexity: 25.3166	Fin Loss: 3.9040	Imp Perplexity: 49.6025 
+2023-04-02 09:40:02,828 The model performance improved when epoch [2/50], BLEU4:0.0525
+2023-04-02 09:40:04,376 Epoch: 3/50	Step: [0/91]	Imp Loss: 3.3854	Imp Perplexity: 29.5290	Fin Loss: 3.6742	Imp Perplexity: 39.4154 
+2023-04-02 09:41:03,138 Epoch: 3/50	Step: [50/91]	Imp Loss: 3.1674	Imp Perplexity: 23.7466	Fin Loss: 3.6900	Imp Perplexity: 40.0446 
+2023-04-02 09:42:17,781 The model performance improved when epoch [3/50], BLEU4:0.0611
+2023-04-02 09:42:19,469 Epoch: 4/50	Step: [0/91]	Imp Loss: 3.1438	Imp Perplexity: 23.1928	Fin Loss: 3.3882	Imp Perplexity: 29.6136 
+2023-04-02 09:43:18,015 Epoch: 4/50	Step: [50/91]	Imp Loss: 3.0420	Imp Perplexity: 20.9462	Fin Loss: 3.3423	Imp Perplexity: 28.2844 
+2023-04-02 09:44:32,355 The model performance improved when epoch [4/50], BLEU4:0.0837
+2023-04-02 09:44:33,982 Epoch: 5/50	Step: [0/91]	Imp Loss: 2.5063	Imp Perplexity: 12.2589	Fin Loss: 3.0512	Imp Perplexity: 21.1404 
+2023-04-02 09:45:32,386 Epoch: 5/50	Step: [50/91]	Imp Loss: 3.0359	Imp Perplexity: 20.8191	Fin Loss: 3.1212	Imp Perplexity: 22.6737 
+2023-04-02 09:46:52,500 Epoch: 6/50	Step: [0/91]	Imp Loss: 2.4176	Imp Perplexity: 11.2186	Fin Loss: 2.9551	Imp Perplexity: 19.2030 
+2023-04-02 09:47:51,705 Epoch: 6/50	Step: [50/91]	Imp Loss: 2.3892	Imp Perplexity: 10.9047	Fin Loss: 2.8911	Imp Perplexity: 18.0135 
+2023-04-02 09:49:07,316 The model performance improved when epoch [6/50], BLEU4:0.0838
+2023-04-02 09:49:08,973 Epoch: 7/50	Step: [0/91]	Imp Loss: 3.2451	Imp Perplexity: 25.6638	Fin Loss: 3.1830	Imp Perplexity: 24.1183 
+2023-04-02 09:50:07,468 Epoch: 7/50	Step: [50/91]	Imp Loss: 2.8810	Imp Perplexity: 17.8317	Fin Loss: 2.7603	Imp Perplexity: 15.8045 
+2023-04-02 09:51:21,694 The model performance improved when epoch [7/50], BLEU4:0.1405
+2023-04-02 09:51:23,290 Epoch: 8/50	Step: [0/91]	Imp Loss: 2.7681	Imp Perplexity: 15.9286	Fin Loss: 2.8285	Imp Perplexity: 16.9197 
+2023-04-02 09:52:22,018 Epoch: 8/50	Step: [50/91]	Imp Loss: 2.6769	Imp Perplexity: 14.5405	Fin Loss: 2.8623	Imp Perplexity: 17.5020 
+2023-04-02 09:53:37,782 Epoch: 9/50	Step: [0/91]	Imp Loss: 2.9662	Imp Perplexity: 19.4183	Fin Loss: 2.8203	Imp Perplexity: 16.7820 
+2023-04-02 09:54:36,122 Epoch: 9/50	Step: [50/91]	Imp Loss: 2.8325	Imp Perplexity: 16.9875	Fin Loss: 2.6795	Imp Perplexity: 14.5781 
+2023-04-02 09:55:52,276 Epoch: 10/50	Step: [0/91]	Imp Loss: 2.6137	Imp Perplexity: 13.6499	Fin Loss: 2.5584	Imp Perplexity: 12.9147 
+2023-04-02 09:56:50,832 Epoch: 10/50	Step: [50/91]	Imp Loss: 2.4012	Imp Perplexity: 11.0366	Fin Loss: 2.8827	Imp Perplexity: 17.8623 
+2023-04-02 09:58:06,748 Epoch: 11/50	Step: [0/91]	Imp Loss: 2.8966	Imp Perplexity: 18.1119	Fin Loss: 2.7120	Imp Perplexity: 15.0594 
+2023-04-02 09:59:05,311 Epoch: 11/50	Step: [50/91]	Imp Loss: 2.4844	Imp Perplexity: 11.9937	Fin Loss: 2.6052	Imp Perplexity: 13.5344 
+2023-04-02 10:00:21,048 Epoch: 12/50	Step: [0/91]	Imp Loss: 2.4565	Imp Perplexity: 11.6634	Fin Loss: 2.4487	Imp Perplexity: 11.5734 
+2023-04-02 10:01:25,152 Epoch: 12/50	Step: [50/91]	Imp Loss: 2.9460	Imp Perplexity: 19.0292	Fin Loss: 2.6855	Imp Perplexity: 14.6655 
+2023-04-02 10:02:40,100 The model performance improved when epoch [12/50], BLEU4:0.1407
+2023-04-02 10:02:41,754 Epoch: 13/50	Step: [0/91]	Imp Loss: 2.4944	Imp Perplexity: 12.1146	Fin Loss: 2.4395	Imp Perplexity: 11.4678 
+2023-04-02 10:03:40,048 Epoch: 13/50	Step: [50/91]	Imp Loss: 2.1125	Imp Perplexity: 8.2689	Fin Loss: 2.2668	Imp Perplexity: 9.6489 
+2023-04-02 10:04:55,884 Epoch: 14/50	Step: [0/91]	Imp Loss: 2.7131	Imp Perplexity: 15.0758	Fin Loss: 2.3670	Imp Perplexity: 10.6650 
+2023-04-02 10:05:54,332 Epoch: 14/50	Step: [50/91]	Imp Loss: 2.5496	Imp Perplexity: 12.8017	Fin Loss: 2.5043	Imp Perplexity: 12.2354 
+2023-04-02 10:07:11,353 Epoch: 15/50	Step: [0/91]	Imp Loss: 2.9592	Imp Perplexity: 19.2817	Fin Loss: 2.5949	Imp Perplexity: 13.3948 
+2023-04-02 10:08:09,910 Epoch: 15/50	Step: [50/91]	Imp Loss: 2.5916	Imp Perplexity: 13.3514	Fin Loss: 2.5566	Imp Perplexity: 12.8921 
+2023-04-02 10:09:26,444 Epoch: 16/50	Step: [0/91]	Imp Loss: 2.4269	Imp Perplexity: 11.3234	Fin Loss: 2.5164	Imp Perplexity: 12.3839 
+2023-04-02 10:10:24,676 Epoch: 16/50	Step: [50/91]	Imp Loss: 2.5580	Imp Perplexity: 12.9101	Fin Loss: 2.3984	Imp Perplexity: 11.0058 
+2023-04-02 10:11:39,111 The model performance improved when epoch [16/50], BLEU4:0.1414
+2023-04-02 10:11:40,728 Epoch: 17/50	Step: [0/91]	Imp Loss: 2.4487	Imp Perplexity: 11.5727	Fin Loss: 2.4241	Imp Perplexity: 11.2921 
+2023-04-02 10:12:38,923 Epoch: 17/50	Step: [50/91]	Imp Loss: 2.3449	Imp Perplexity: 10.4321	Fin Loss: 2.1963	Imp Perplexity: 8.9918 
+2023-04-02 10:13:55,615 Epoch: 18/50	Step: [0/91]	Imp Loss: 2.8222	Imp Perplexity: 16.8145	Fin Loss: 2.0132	Imp Perplexity: 7.4872 
+2023-04-02 10:14:53,924 Epoch: 18/50	Step: [50/91]	Imp Loss: 2.5796	Imp Perplexity: 13.1919	Fin Loss: 2.3134	Imp Perplexity: 10.1083 
+2023-04-02 10:16:13,316 Epoch: 19/50	Step: [0/91]	Imp Loss: 2.4482	Imp Perplexity: 11.5676	Fin Loss: 2.4328	Imp Perplexity: 11.3904 
+2023-04-02 10:17:12,807 Epoch: 19/50	Step: [50/91]	Imp Loss: 2.0350	Imp Perplexity: 7.6525	Fin Loss: 2.3682	Imp Perplexity: 10.6782 
+2023-04-02 10:18:27,852 Epoch: 20/50	Step: [0/91]	Imp Loss: 2.6378	Imp Perplexity: 13.9830	Fin Loss: 2.2936	Imp Perplexity: 9.9105 
+2023-04-02 10:19:26,506 Epoch: 20/50	Step: [50/91]	Imp Loss: 2.1995	Imp Perplexity: 9.0201	Fin Loss: 2.3389	Imp Perplexity: 10.3698 
+2023-04-02 10:20:42,198 Epoch: 21/50	Step: [0/91]	Imp Loss: 2.3611	Imp Perplexity: 10.6024	Fin Loss: 2.0461	Imp Perplexity: 7.7377 
+2023-04-02 10:21:40,884 Epoch: 21/50	Step: [50/91]	Imp Loss: 1.9665	Imp Perplexity: 7.1455	Fin Loss: 2.2637	Imp Perplexity: 9.6188 
+2023-04-02 10:22:57,366 Epoch: 22/50	Step: [0/91]	Imp Loss: 2.4303	Imp Perplexity: 11.3622	Fin Loss: 2.1606	Imp Perplexity: 8.6765 
+2023-04-02 10:23:55,656 Epoch: 22/50	Step: [50/91]	Imp Loss: 2.4039	Imp Perplexity: 11.0660	Fin Loss: 1.9779	Imp Perplexity: 7.2276 
+2023-04-02 10:25:11,477 Epoch: 23/50	Step: [0/91]	Imp Loss: 2.5561	Imp Perplexity: 12.8851	Fin Loss: 2.1945	Imp Perplexity: 8.9756 
+2023-04-02 10:26:09,783 Epoch: 23/50	Step: [50/91]	Imp Loss: 2.2442	Imp Perplexity: 9.4329	Fin Loss: 2.0814	Imp Perplexity: 8.0153 
+2023-04-02 10:27:25,772 Epoch: 24/50	Step: [0/91]	Imp Loss: 2.5156	Imp Perplexity: 12.3746	Fin Loss: 2.3169	Imp Perplexity: 10.1447 
+2023-04-02 10:28:24,691 Epoch: 24/50	Step: [50/91]	Imp Loss: 2.3122	Imp Perplexity: 10.0963	Fin Loss: 2.1036	Imp Perplexity: 8.1958 
+2023-04-02 10:29:40,206 Epoch: 25/50	Step: [0/91]	Imp Loss: 2.6296	Imp Perplexity: 13.8684	Fin Loss: 1.9936	Imp Perplexity: 7.3418 
+2023-04-02 10:30:38,938 Epoch: 25/50	Step: [50/91]	Imp Loss: 2.8190	Imp Perplexity: 16.7605	Fin Loss: 1.9616	Imp Perplexity: 7.1108 
+2023-04-02 10:31:58,978 Epoch: 26/50	Step: [0/91]	Imp Loss: 2.3769	Imp Perplexity: 10.7716	Fin Loss: 2.1062	Imp Perplexity: 8.2170 
+2023-04-02 10:32:57,225 Epoch: 26/50	Step: [50/91]	Imp Loss: 2.1347	Imp Perplexity: 8.4542	Fin Loss: 2.1596	Imp Perplexity: 8.6675 
+2023-04-02 10:34:12,807 Epoch: 27/50	Step: [0/91]	Imp Loss: 2.2430	Imp Perplexity: 9.4214	Fin Loss: 2.2100	Imp Perplexity: 9.1162 
+2023-04-02 10:35:11,228 Epoch: 27/50	Step: [50/91]	Imp Loss: 2.4084	Imp Perplexity: 11.1166	Fin Loss: 2.0590	Imp Perplexity: 7.8383 
+2023-04-02 10:36:27,107 Epoch: 28/50	Step: [0/91]	Imp Loss: 2.2605	Imp Perplexity: 9.5882	Fin Loss: 2.0628	Imp Perplexity: 7.8676 
+2023-04-02 10:37:25,599 Epoch: 28/50	Step: [50/91]	Imp Loss: 2.1113	Imp Perplexity: 8.2593	Fin Loss: 2.0646	Imp Perplexity: 7.8824 
+2023-04-02 10:38:41,995 Epoch: 29/50	Step: [0/91]	Imp Loss: 2.0235	Imp Perplexity: 7.5651	Fin Loss: 2.0247	Imp Perplexity: 7.5742 
+2023-04-02 10:39:40,267 Epoch: 29/50	Step: [50/91]	Imp Loss: 2.5743	Imp Perplexity: 13.1225	Fin Loss: 2.2936	Imp Perplexity: 9.9102 
+2023-04-02 10:40:55,677 Epoch: 30/50	Step: [0/91]	Imp Loss: 2.1954	Imp Perplexity: 8.9838	Fin Loss: 2.0658	Imp Perplexity: 7.8917 
+2023-04-02 10:41:54,113 Epoch: 30/50	Step: [50/91]	Imp Loss: 2.5361	Imp Perplexity: 12.6309	Fin Loss: 2.0326	Imp Perplexity: 7.6337 
+2023-04-02 10:43:10,186 Epoch: 31/50	Step: [0/91]	Imp Loss: 2.1683	Imp Perplexity: 8.7437	Fin Loss: 1.9599	Imp Perplexity: 7.0987 
+2023-04-02 10:44:09,878 Epoch: 31/50	Step: [50/91]	Imp Loss: 2.2889	Imp Perplexity: 9.8644	Fin Loss: 2.0598	Imp Perplexity: 7.8447 
+2023-04-02 10:45:26,891 Epoch: 32/50	Step: [0/91]	Imp Loss: 2.3924	Imp Perplexity: 10.9395	Fin Loss: 1.9175	Imp Perplexity: 6.8042 
+2023-04-02 10:46:31,088 Epoch: 32/50	Step: [50/91]	Imp Loss: 2.4342	Imp Perplexity: 11.4064	Fin Loss: 2.1476	Imp Perplexity: 8.5642 
+2023-04-02 10:47:47,145 Epoch: 33/50	Step: [0/91]	Imp Loss: 2.1570	Imp Perplexity: 8.6453	Fin Loss: 1.8394	Imp Perplexity: 6.2928 
+2023-04-02 10:48:45,763 Epoch: 33/50	Step: [50/91]	Imp Loss: 2.2265	Imp Perplexity: 9.2670	Fin Loss: 1.9301	Imp Perplexity: 6.8900 
+2023-04-02 10:50:01,229 Epoch: 34/50	Step: [0/91]	Imp Loss: 1.8976	Imp Perplexity: 6.6696	Fin Loss: 1.9042	Imp Perplexity: 6.7139 
+2023-04-02 10:50:59,807 Epoch: 34/50	Step: [50/91]	Imp Loss: 2.4228	Imp Perplexity: 11.2771	Fin Loss: 1.8582	Imp Perplexity: 6.4123 
+2023-04-02 10:52:15,742 Epoch: 35/50	Step: [0/91]	Imp Loss: 2.2796	Imp Perplexity: 9.7728	Fin Loss: 2.0492	Imp Perplexity: 7.7615 
+2023-04-02 10:53:14,231 Epoch: 35/50	Step: [50/91]	Imp Loss: 2.2639	Imp Perplexity: 9.6205	Fin Loss: 1.8959	Imp Perplexity: 6.6582 
+2023-04-02 10:54:30,400 Epoch: 36/50	Step: [0/91]	Imp Loss: 2.0400	Imp Perplexity: 7.6907	Fin Loss: 1.8736	Imp Perplexity: 6.5118 
+2023-04-02 10:55:28,522 Epoch: 36/50	Step: [50/91]	Imp Loss: 2.1756	Imp Perplexity: 8.8071	Fin Loss: 1.8601	Imp Perplexity: 6.4241 
+2023-04-02 10:56:44,336 Epoch: 37/50	Step: [0/91]	Imp Loss: 1.9386	Imp Perplexity: 6.9487	Fin Loss: 1.6544	Imp Perplexity: 5.2299 
+2023-04-02 10:57:42,604 Epoch: 37/50	Step: [50/91]	Imp Loss: 2.0122	Imp Perplexity: 7.4795	Fin Loss: 1.9149	Imp Perplexity: 6.7860 
+2023-04-02 10:58:58,586 Epoch: 38/50	Step: [0/91]	Imp Loss: 1.9197	Imp Perplexity: 6.8188	Fin Loss: 1.7949	Imp Perplexity: 6.0191 
+2023-04-02 10:59:57,054 Epoch: 38/50	Step: [50/91]	Imp Loss: 2.0830	Imp Perplexity: 8.0284	Fin Loss: 1.7436	Imp Perplexity: 5.7178 
+2023-04-02 11:01:15,676 Epoch: 39/50	Step: [0/91]	Imp Loss: 2.1591	Imp Perplexity: 8.6632	Fin Loss: 2.0074	Imp Perplexity: 7.4440 
+2023-04-02 11:02:14,919 Epoch: 39/50	Step: [50/91]	Imp Loss: 2.2595	Imp Perplexity: 9.5788	Fin Loss: 1.7013	Imp Perplexity: 5.4813 
+2023-04-02 11:03:30,368 Epoch: 40/50	Step: [0/91]	Imp Loss: 2.2847	Imp Perplexity: 9.8228	Fin Loss: 1.8814	Imp Perplexity: 6.5629 
+2023-04-02 11:04:28,758 Epoch: 40/50	Step: [50/91]	Imp Loss: 2.2328	Imp Perplexity: 9.3263	Fin Loss: 1.8120	Imp Perplexity: 6.1229 
+2023-04-02 11:05:43,874 Epoch: 41/50	Step: [0/91]	Imp Loss: 1.8551	Imp Perplexity: 6.3921	Fin Loss: 1.7073	Imp Perplexity: 5.5138 
+2023-04-02 11:06:42,541 Epoch: 41/50	Step: [50/91]	Imp Loss: 2.0679	Imp Perplexity: 7.9082	Fin Loss: 1.7993	Imp Perplexity: 6.0453 
+2023-04-02 11:07:58,416 Epoch: 42/50	Step: [0/91]	Imp Loss: 2.2598	Imp Perplexity: 9.5815	Fin Loss: 1.7799	Imp Perplexity: 5.9291 
+2023-04-02 11:08:56,913 Epoch: 42/50	Step: [50/91]	Imp Loss: 2.3485	Imp Perplexity: 10.4702	Fin Loss: 1.8212	Imp Perplexity: 6.1795 
+2023-04-02 11:10:13,528 Epoch: 43/50	Step: [0/91]	Imp Loss: 2.2952	Imp Perplexity: 9.9260	Fin Loss: 1.8416	Imp Perplexity: 6.3067 
+2023-04-02 11:11:11,869 Epoch: 43/50	Step: [50/91]	Imp Loss: 2.2870	Imp Perplexity: 9.8452	Fin Loss: 1.9066	Imp Perplexity: 6.7299 
+2023-04-02 11:12:27,687 Epoch: 44/50	Step: [0/91]	Imp Loss: 1.9255	Imp Perplexity: 6.8584	Fin Loss: 1.7575	Imp Perplexity: 5.7980 
+2023-04-02 11:13:26,162 Epoch: 44/50	Step: [50/91]	Imp Loss: 2.0688	Imp Perplexity: 7.9154	Fin Loss: 1.8702	Imp Perplexity: 6.4895 
+2023-04-02 11:14:42,557 Epoch: 45/50	Step: [0/91]	Imp Loss: 2.0627	Imp Perplexity: 7.8669	Fin Loss: 1.8432	Imp Perplexity: 6.3168 
+2023-04-02 11:15:40,868 Epoch: 45/50	Step: [50/91]	Imp Loss: 2.3299	Imp Perplexity: 10.2764	Fin Loss: 1.9098	Imp Perplexity: 6.7516 
+2023-04-02 11:16:58,233 Epoch: 46/50	Step: [0/91]	Imp Loss: 2.2249	Imp Perplexity: 9.2527	Fin Loss: 1.6628	Imp Perplexity: 5.2739 
+2023-04-02 11:17:56,819 Epoch: 46/50	Step: [50/91]	Imp Loss: 2.0837	Imp Perplexity: 8.0340	Fin Loss: 1.9032	Imp Perplexity: 6.7071 
+2023-04-02 11:19:13,479 Epoch: 47/50	Step: [0/91]	Imp Loss: 2.2167	Imp Perplexity: 9.1765	Fin Loss: 1.7457	Imp Perplexity: 5.7297 
+2023-04-02 11:20:12,056 Epoch: 47/50	Step: [50/91]	Imp Loss: 2.1356	Imp Perplexity: 8.4617	Fin Loss: 1.9177	Imp Perplexity: 6.8056 
+2023-04-02 11:21:28,382 Epoch: 48/50	Step: [0/91]	Imp Loss: 2.2935	Imp Perplexity: 9.9100	Fin Loss: 1.7165	Imp Perplexity: 5.5653 
+2023-04-02 11:22:26,710 Epoch: 48/50	Step: [50/91]	Imp Loss: 2.0922	Imp Perplexity: 8.1024	Fin Loss: 2.0370	Imp Perplexity: 7.6674 
+2023-04-02 11:23:42,416 Epoch: 49/50	Step: [0/91]	Imp Loss: 2.0988	Imp Perplexity: 8.1566	Fin Loss: 1.6527	Imp Perplexity: 5.2211 
+2023-04-02 11:24:40,548 Epoch: 49/50	Step: [50/91]	Imp Loss: 2.2336	Imp Perplexity: 9.3331	Fin Loss: 1.6993	Imp Perplexity: 5.4702 
+2023-04-02 11:25:56,913 Epoch: 50/50	Step: [0/91]	Imp Loss: 2.2375	Imp Perplexity: 9.3701	Fin Loss: 1.8082	Imp Perplexity: 6.0997 
+2023-04-02 11:26:55,471 Epoch: 50/50	Step: [50/91]	Imp Loss: 2.1126	Imp Perplexity: 8.2694	Fin Loss: 1.8826	Imp Perplexity: 6.5703 
+2023-04-02 11:28:11,556 Values of metric for the best model are: 
+ BLEU:[0.417, 0.2784, 0.1954, 0.1414], METEOR:0.1743, ROUGE:0.3367, Cider:0.1864
+2023-04-02 11:28:11,556 Save the best model weights when epoch [16/50], BLEU4:0.1414
+2023-04-02 11:28:11,556 =======================================================
+2023-04-02 11:28:11,572 *******************************************************
+2023-04-02 11:28:11,572 Final Result -- Average values of metric for the best model are: 
+ BLEU:[0.41563333 0.2799     0.19686667 0.14166667], METEOR:0.17563333333333334, ROUGE:0.35156666666666664, Cider:0.225
